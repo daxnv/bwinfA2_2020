@@ -1,0 +1,2014 @@
+256
+bbaa cbaa acaa bdaa cdaa ddaa baba caba daba abba cbba dbba acba ccba dcba bdba baca caca bbca dbca ddca aada bada dada acda bcda ccda bdda ddda abab bbab cbab dbab bcab adab cdab ddab aabb cabb dabb acbb ccbb dcbb bdbb ddbb aacb cacb bbcb dbcb accb bccb adcb cdcb aadb dadb abdb ccdb addb cddb dddb aaac bbac dbac bcac ccac dcac cdac dabc abbc bbbc acbc bcbc ddbc aacc dacc abcc bbcc cbcc accc cccc dccc bdcc aadc cadc dadc bcdc ccdc bddc baad caad abad bbad cbad acad bcad adad bdad ddad aabd bbbd cbbd acbd bcbd ccbd dcbd adbd bdbd bacd dacd cbcd accd bccd cccd adcd ddcd cadd abdd bbdd acdd bcdd ccdd dcdd addd
+670
+156 42 25 223 158 150
+dcbc bcca acba cdbd bdbc bbbc
+
+244 113
+dadd aadb
+
+246 229 245 18 63 195 141 110 42 115 201 190 204 71 13 241 251 194 239 221 123 38 7
+bbdd abcd abdd baba cdda caad adac bdcb bcca cadb acad bddc dcad cbab adaa aadd ccdd baad cdcd adbd ccdb bbca cbaa
+
+183
+cbdc
+
+222 19 225 219 59 134 236 116 6
+bdbd caba aacd ccbd ccda bbac dccd dadb bbaa
+
+22 39 37 46 28 133 217 210 189 77 235 98 165 29 10 240 103 31 176 70 198 105
+bbba cbca abca bdca dcba abac acbd babd addc adab cccd bacb abcc adba bcaa ddcd cbcb cdba ddcc bbab bbad accb
+
+73 109 80
+acab adcb ddab
+
+85 78 85 80 120 170 110 61 189 37 206 61 76 95 197 94 31 243 21 174
+abbb bdab abbb ddab dbdb bccc bdcb adda addc abca bdad adda dcab cdbb abad bdbb cdba cadd abba bdcc
+
+102 76 3 94 176 14 32 133
+bbcb dcab caaa bdbb ddcc bdaa ddba abac
+
+133 54 123 216 227 87 18 201 96 65 75 122 152 145 157 188 135 37 184 171 172 167 190 124 4 143 143
+abac bbda ccdb dbbd cacd cbbb baba acad ddbb aaab ccab bcdb dbbc aabc adbc dcdc cbac abca dbdc cccc dccc cbcc bddc dcdb daaa cdac cdac
+
+234 99 175 98 154 240 62 167 120 256 100 2 205 105 182 147 64 45 232 170 160 245 197 238 216 79 248 155 186 2
+bccd cacb cdcc bacb bcbc ddcd bdda cbcc dbdb dddd dacb baaa adad accb bbdc cabc ddda adca dbcd bccc ddbc abdd abad bdcd dbbd cdab dbdd ccbc bcdc baaa
+
+191 168 223 14 94 120 118 124 219 31 251 165 49 82 4 171
+cddc dbcc cdbd bdaa bdbb dbdb bbdb dcdb ccbd cdba ccdd abcc aada babb daaa cccc
+
+180 135 155 95 197 108 90 24 4 2 152 242 50 135 37 54 239 220 145 112 145 38 56 93 40 166 148 129
+dadc cbac ccbc cdbb abad dccb bcbb dbba daaa baaa dbbc badd bada cbac abca bbda cdcd dcbd aabc ddcb aabc bbca dbda adbb dbca bbcc dabc aaac
+
+207 12 15 131 159 40 94 53 120 109 201 208 238 255 187 132
+cdad dcaa cdaa caac cdbc dbca bdbb abda dbdb adcb acad ddad bdcd cddd ccdc daac
+
+17 121 195 208 194 169 232 187 22 98 59
+aaba acdb caad ddad baad accc dbcd ccdc bbba bacb ccda
+
+253 43 51 154 185 136 62 185 109 192 69 222 227 199 119 249 72 108 51 144
+addd ccca cada bcbc acdc dbac bdda acdc adcb dddc abab bdbd cacd cbad cbdb acdd dbab dccb cada ddac
+
+203 137 89 35 91 41 238 193 47 190 22 191
+ccad acac acbb caca ccbb acca bdcd aaad cdca bddc bbba cddc
+
+176 151 117 2 113 232 184 50 191 7 101 138 237 17 165 94 245 180
+ddcc cbbc abdb baaa aadb dbcd dbdc bada cddc cbaa abcb bcac adcd aaba abcc bdbb abdd dadc
+
+98 108 31 109 107 201 22 205 224 66 170 251 120 23 120 243 130 253 237 179 115 148 192 233 176 29 10 147 34 150
+bacb dccb cdba adcb cccb acad bbba adad ddbd baab bccc ccdd dbdb cbba dbdb cadd baac addd adcd cadc cadb dabc dddc accd ddcc adba bcaa cabc baca bbbc
+
+253 53 146 1 170 54 48 114 14 210 49 151 47 250 49 209 45 12
+addd abda babc aaaa bccc bbda ddca badb bdaa babd aada cbbc cdca bcdd aada aabd adca dcaa
+
+127
+cddb
+
+88 147 53 78 143 52 112 179 9 122 129 92 188 250
+dbbb cabc abda bdab cdac dada ddcb cadc acaa bcdb aaac dcbb dcdc bcdd
+
+18 198 123 162 50 7 105 246 125 117 163 102 232 118 51 30 103 77 118 47 137 184
+baba bbad ccdb bacc bada cbaa accb bbdd addb abdb cacc bbcb dbcd bbdb cada bdba cbcb adab bbdb cdca acac dbdc
+
+41 142 101 84 190
+acca bdac abcb dabb bddc
+
+146 35 186 123 192 103 9 161 167 100 210 19 17 229 105 117 213 84 17 213 170 41 67 132 155 208 243
+babc caca bcdc ccdb dddc cbcb acaa aacc cbcc dacb babd caba aaba abcd accb abdb abbd dabb aaba abbd bccc acca caab daac ccbc ddad cadd
+
+165 194 133 173 14 73 190 130 242 171 130 141 81 5 195 8 210 185 134 59 164 251 96 41 99 124 6 77 76
+abcc baad abac adcc bdaa acab bddc baac badd cccc baac adac aabb abaa caad dbaa babd acdc bbac ccda dacc ccdd ddbb acca cacb dcdb bbaa adab dcab
+
+77 43 161 244 123 185 205 182 164
+adab ccca aacc dadd ccdb acdc adad bbdc dacc
+
+69 53 141 255 236 229 249 129
+abab abda adac cddd dccd abcd acdd aaac
+
+130 56
+baac dbda
+
+144 165 21
+ddac abcc abba
+
+144 165 127 101
+ddac abcc cddb abcb
+
+174 141 113 157 163 168 148 238 156 205 71 119 4 131 12 82 190 55 175
+bdcc adac aadb adbc cacc dbcc dabc bdcd dcbc adad cbab cbdb daaa caac dcaa babb bddc cbda cdcc
+
+183 119 103 153 32 79
+cbdc cbdb cbcb acbc ddba cdab
+
+59 133 240 243 136 98
+ccda abac ddcd cadd dbac bacb
+
+253 57 20 125
+addd acda daba addb
+
+184 16 180 91 115 62 182 45 35 174 57 186 140 31 197 146 144 95 120 201 67 193 17 96 170 135 236 90 45
+dbdc ddaa dadc ccbb cadb bdda bbdc adca caca bdcc acda bcdc dcac cdba abad babc ddac cdbb dbdb acad caab aaad aaba ddbb bccc cbac dccd bcbb adca
+
+130 149 111 162 95 165 69 13 246 229 20 246 20 70 26 100 239 14 109 72 183 168 54 150 89 176 126 77 85
+baac abbc cdcb bacc cdbb abcc abab adaa bbdd abcd daba bbdd daba bbab bcba dacb cdcd bdaa adcb dbab cbdc dbcc bbda bbbc acbb ddcc bddb adab abbb
+
+152 244 20 186 172 240 241 103 222 43 175 167 248 211 11 73 166 198 246 128 221 205 150 255 149 62 249
+dbbc dadd daba bcdc dccc ddcd aadd cbcb bdbd ccca cdcc cbcc dbdd cabd ccaa acab bbcc bbad bbdd dddb adbd adad bbbc cddd abbc bdda acdd
+
+203 125 214 172
+ccad addb bbbd dccc
+
+29 153 150 130 94 101 149 170 50 174 203 164 104
+adba acbc bbbc baac bdbb abcb abbc bccc bada bdcc ccad dacc dbcb
+
+204 1 3 204 9 140 3 113
+dcad aaaa caaa dcad acaa dcac caaa aadb
+
+214 164 248 136 193
+bbbd dacc dbdd dbac aaad
+
+9 255 64 79 249
+acaa cddd ddda cdab acdd
+
+148 255 119 231 225 196 36 159 82 170 24 191 122 31 52 116 50 40 62 9 47 42 204 99 157 85 178
+dabc cddd cbdb cbcd aacd daad daca cdbc babb bccc dbba cddc bcdb cdba dada dadb bada dbca bdda acaa cdca bcca dcad cacb adbc abbb badc
+
+200 121 113 220 153 236 252 13 35 176 82 12 147 101 44 116 213 58 35 44 162 99 182 115 137 192 124
+dbad acdb aadb dcbd acbc dccd dcdd adaa caca ddcc babb dcaa cabc abcb dcca dadb abbd bcda caca dcca bacc cacb bbdc cadb acac dddc dcdb
+
+154 14 59 75
+bcbc bdaa ccda ccab
+
+26 132 126 97 102 35 77 183 104 135 91 126 176 161 161 244 31
+bcba daac bddb aacb bbcb caca adab cbdc dbcb cbac ccbb bddb ddcc aacc aacc dadd cdba
+
+136 7 176 210 200 89 130 183 80 11 209 73 177 241 55 57 196 171
+dbac cbaa ddcc babd dbad acbb baac cbdc ddab ccaa aabd acab aadc aadd cbda acda daad cccc
+
+95 226 149 100 128 92 21
+cdbb bacd abbc dacb dddb dcbb abba
+
+126 100 155 90 222 239 56 66 42 167 237
+bddb dacb ccbc bcbb bdbd cdcd dbda baab bcca cbcc adcd
+
+217 65
+acbd aaab
+
+233 215 191 137 152 72 243 64 6 67 186 133 245 36 227 6 22 146 117 39 26 102 56 223
+accd cbbd cddc acac dbbc dbab cadd ddda bbaa caab bcdc abac abdd daca cacd bbaa bbba babc abdb cbca bcba bbcb dbda cdbd
+
+76 32 183 121 103 17 214 5 83 209 120 224 121 86 237
+dcab ddba cbdc acdb cbcb aaba bbbd abaa cabb aabd dbdb ddbd acdb bbbb adcd
+
+111 113 70 10 39 105 133 151 48 195 130 70 96 39 214 41 174 247 161
+cdcb aadb bbab bcaa cbca accb abac cbbc ddca caad baac bbab ddbb cbca bbbd acca bdcc cbdd aacc
+
+125 70 35 43 164 169 214 92 40 212
+addb bbab caca ccca dacc accc bbbd dcbb dbca dabd
+
+162 94 100 181 155 212 43 183 173 73 225 216 51 86 29 176 164 195 12 144 7
+bacc bdbb dacb abdc ccbc dabd ccca cbdc adcc acab aacd dbbd cada bbbb adba ddcc dacc caad dcaa ddac cbaa
+
+28 62 225 24 133 212 193 89
+dcba bdda aacd dbba abac dabd aaad acbb
+
+62 28 22 155 237 55 129
+bdda dcba bbba ccbc adcd cbda aaac
+
+96 215 249 149 254 3 74
+ddbb cbbd acdd abbc bddd caaa bcab
+
+22 25 70 164 99 249 120 241 250 201
+bbba acba bbab dacc cacb acdd dbdb aadd bcdd acad
+
+208 255 27 190 33 64 129 60 97 249 57 13 47 1 225 57 141 180 97 22 134
+ddad cddd ccba bddc aaca ddda aaac dcda aacb acdd acda adaa cdca aaaa aacd acda adac dadc aacb bbba bbac
+
+220 65 250 14 78 57 103 150 194 200 24 241 12 244 255 187 154 58 140 232 249 255 120 159 235
+dcbd aaab bcdd bdaa bdab acda cbcb bbbc baad dbad dbba aadd dcaa dadd cddd ccdc bcbc bcda dcac dbcd acdd cddd dbdb cdbc cccd
+
+187
+ccdc
+
+210 21 2 214 224 119 189 110 98 128 31 133 63 210 67 235 234 173 47 120 252 182 183 90 121
+babd abba baaa bbbd ddbd cbdb addc bdcb bacb dddb cdba abac cdda babd caab cccd bccd adcc cdca dbdb dcdd bbdc cbdc bcbb acdb
+
+228 196 130 63 229 138 177 118 175 32 131 43 251
+dacd daad baac cdda abcd bcac aadc bbdb cdcc ddba caac ccca ccdd
+
+64 125 117 1 115 190 63 143 12 245 104 92 191 57 32 77 177 67 28 222 204 91 70 143 40
+ddda addb abdb aaaa cadb bddc cdda cdac dcaa abdd dbcb dcbb cddc acda ddba adab aadc caab dcba bdbd dcad ccbb bbab cdac dbca
+
+38 20 35 76 161 38 22 177 133 20 194
+bbca daba caca dcab aacc bbca bbba aadc abac daba baad
+
+45 147 182 212 136 48 166 21 17 170 243 209 47 71 205 40 206
+adca cabc bbdc dabd dbac ddca bbcc abba aaba bccc cadd aabd cdca cbab adad dbca bdad
+
+182 67 65 195 2 226 222 201 142 152 73 150 74 148 58 164 109 128 219 177 96 110 107 124 183 11 205 230 194
+bbdc caab aaab caad baaa bacd bdbd acad bdac dbbc acab bbbc bcab dabc bcda dacc adcb dddb ccbd aadc ddbb bdcb cccb dcdb cbdc ccaa adad bbcd baad
+
+131 253 159 214 24 87 241 50 226 158 142 107 245 200 151 252 152 31 56
+caac addd cdbc bbbd dbba cbbb aadd bada bacd bdbc bdac cccb abdd dbad cbbc dcdd dbbc cdba dbda
+
+156 132 144 198 120 105 233 108 55 81 38 216 110 145 200 192 240 68 37 218 55 53 71 9 143 74 138
+dcbc daac ddac bbad dbdb accb accd dccb cbda aabb bbca dbbd bdcb aabc dbad dddc ddcd daab abca bcbd cbda abda cbab acaa cdac bcab bcac
+
+174 248 248 176 180 99 181 141 140 136 64 106 57 19 222 137 140 250 5 241 240
+bdcc dbdd dbdd ddcc dadc cacb abdc adac dcac dbac ddda bccb acda caba bdbd acac dcac bcdd abaa aadd ddcd
+
+136
+dbac
+
+7
+cbaa
+
+166 172 90 86 169 249 184 171 68 248 177 135 145 206 65 247 180 67 145 171 206
+bbcc dccc bcbb bbbb accc acdd dbdc cccc daab dbdd aadc cbac aabc bdad aaab cbdd dadc caab aabc cccc bdad
+
+82 70
+babb bbab
+
+145 146 242 152 171 52 217 195 82 177 104 190 26 110 66 108 250 237 216 89 133 177 6 120
+aabc babc badd dbbc cccc dada acbd caad babb aadc dbcb bddc bcba bdcb baab dccb bcdd adcd dbbd acbb abac aadc bbaa dbdb
+
+248 59 159 181 228 121 226 50 120 256 228 123 209 226 165 166 118 158 208 46 105
+dbdd ccda cdbc abdc dacd acdb bacd bada dbdb dddd dacd ccdb aabd bacd abcc bbcc bbdb bdbc ddad bdca accb
+
+123 123 187 81 14 4 179 141 89 35 168 209 200 186 130 12 60 180 32 185 107 216 189 107
+ccdb ccdb ccdc aabb bdaa daaa cadc adac acbb caca dbcc aabd dbad bcdc baac dcaa dcda dadc ddba acdc cccb dbbd addc cccb
+
+56 228 81 120 129 13 125 9 84 92 183 7 112 107 196 125 152 223 189 155 45 39 194
+dbda dacd aabb dbdb aaac adaa addb acaa dabb dcbb cbdc cbaa ddcb cccb daad addb dbbc cdbd addc ccbc adca cbca baad
+
+127 134 41 145 197 9 126 253 255 126 88 202 196 95 90 128 187 207 60 219 234 59 232 120 48 87 157 150 130
+cddb bbac acca aabc abad acaa bddb addd cddd bddb dbbb bcad daad cdbb bcbb dddb ccdc cdad dcda ccbd bccd ccda dbcd dbdb ddca cbbb adbc bbbc baac
+
+189 94 160 89 224 68 219 195 109
+addc bdbb ddbc acbb ddbd daab ccbd caad adcb
+
+96 202 52 46 189 168 31 102 125 66 129 170 216
+ddbb bcad dada bdca addc dbcc cdba bbcb addb baab aaac bccc dbbd
+
+92 124 97 230 147 141 123 250 118 30 192 233 22 38 166 179 58
+dcbb dcdb aacb bbcd cabc adac ccdb bcdd bbdb bdba dddc accd bbba bbca bbcc cadc bcda
+
+159 191 173 60 253 165 20 162 107 195 132 95 152 216 121 209 114 151 141 106 146 6 2 39
+cdbc cddc adcc dcda addd abcc daba bacc cccb caad daac cdbb dbbc dbbd acdb aabd badb cbbc adac bccb babc bbaa baaa cbca
+
+234 219 41 211 105 147 56 66 139 102 139 192 20 5 72 156 103 209 205 197 235 242
+bccd ccbd acca cabd accb cabc dbda baab ccac bbcb ccac dddc daba abaa dbab dcbc cbcb aabd adad abad cccd badd
+
+124 143 162 90 192 184 140 187 26 151 228 34 12 217 120 67 63 79 164 187 79 144 59 233 114
+dcdb cdac bacc bcbb dddc dbdc dcac ccdc bcba cbbc dacd baca dcaa acbd dbdb caab cdda cdab dacc ccdc cdab ddac ccda accd badb
+
+121 6 35 4 256 206 121 222 53 20 4 31 247 246 234 37 223 129 216 13 171 48 158 74 111 19 149 38 201 92
+acdb bbaa caca daaa dddd bdad acdb bdbd abda daba daaa cdba cbdd bbdd bccd abca cdbd aaac dbbd adaa cccc ddca bdbc bcab cdcb caba abbc bbca acad dcbb
+
+130 217 66 179 193 146 123 133 39 78 73 56 91 119 75 155 96 119 180 126 197 197 214
+baac acbd baab cadc aaad babc ccdb abac cbca bdab acab dbda ccbb cbdb ccab ccbc ddbb cbdb dadc bddb abad abad bbbd
+
+141 201 173 119 106 25 108 49 224 110 113 101 200 13 67 187 105 246 188 141 159 128 147 114
+adac acad adcc cbdb bccb acba dccb aada ddbd bdcb aadb abcb dbad adaa caab ccdc accb bbdd dcdc adac cdbc dddb cabc badb
+
+58 98 115 111 81 99 189 228 3
+bcda bacb cadb cdcb aabb cacb addc dacd caaa
+
+29
+adba
+
+210 238 129 59 111 175 170 149 194
+babd bdcd aaac ccda cdcb cdcc bccc abbc baad
+
+166 174 204 188 152 25 249
+bbcc bdcc dcad dcdc dbbc acba acdd
+
+201 59 163 212 18 217
+acad ccda cacc dabd baba acbd
+
+129 143 115 215 50 10 181 128 197 253 205 74 25 185 128 248 178 131
+aaac cdac cadb cbbd bada bcaa abdc dddb abad addd adad bcab acba acdc dddb dbdd badc caac
+
+69 164 18 237 145 48 142 162 181 92 177 87 25 146 59 145 126 81 19 181 69 54 251 121 188 61 51 74 238
+abab dacc baba adcd aabc ddca bdac bacc abdc dcbb aadc cbbb acba babc ccda aabc bddb aabb caba abdc abab bbda ccdd acdb dcdc adda cada bcab bdcd
+
+7 110 27 118 242 77 29 126 12 203 194 55 6 241 221 156 48 11 105 231 159 130 150 193
+cbaa bdcb ccba bbdb badd adab adba bddb dcaa ccad baad cbda bbaa aadd adbd dcbc ddca ccaa accb cbcd cdbc baac bbbc aaad
+
+256 125 26 249 69 111 153 83 215 202 50 41 141 224 178 249 162 122 130 46 100 2 38 226
+dddd addb bcba acdd abab cdcb acbc cabb cbbd bcad bada acca adac ddbd badc acdd bacc bcdb baac bdca dacb baaa bbca bacd
+
+184 4 193 129 61 211 121 113 239 134 125 181 161 64 4 40 215 119 107 234 255
+dbdc daaa aaad aaac adda cabd acdb aadb cdcd bbac addb abdc aacc ddda daaa dbca cbbd cbdb cccb bccd cddd
+
+163 219 216 167 107 109 131 212 153 164 15 34 193 189 9 134 146 190 188
+cacc ccbd dbbd cbcc cccb adcb caac dabd acbc dacc cdaa baca aaad addc acaa bbac babc bddc dcdc
+
+80 192 86 17
+ddab dddc bbbb aaba
+
+144
+ddac
+
+206 145
+bdad aabc
+
+153 21 163 221 12 122 203 32 86 136 24 213 7 23 77 241 47 94 190 66 20 150 49 55
+acbc abba cacc adbd dcaa bcdb ccad ddba bbbb dbac dbba abbd cbaa cbba adab aadd cdca bdbb bddc baab daba bbbc aada cbda
+
+71 1 155 42 204
+cbab aaaa ccbc bcca dcad
+
+32 46 95 87 230 149 86 31 96 195 53 118 246 44
+ddba bdca cdbb cbbb bbcd abbc bbbb cdba ddbb caad abda bbdb bbdd dcca
+
+255 29 17 17 64 201 16 106 129 66 195 180 101 41 188 251
+cddd adba aaba aaba ddda acad ddaa bccb aaac baab caad dadc abcb acca dcdc ccdd
+
+46 31 79 112 182 60 23 183 123 113 255 154 62 165 166 147 51 15 253 43 54 82 16 18 135 163 242
+bdca cdba cdab ddcb bbdc dcda cbba cbdc ccdb aadb cddd bcbc bdda abcc bbcc cabc cada cdaa addd ccca bbda babb ddaa baba cbac cacc badd
+
+48 109 105 74 114 158 208 143 117 114 168 43
+ddca adcb accb bcab badb bdbc ddad cdac abdb badb dbcc ccca
+
+14 42 24 218 24 85 193 239 92 203 176 30 151 77 64 44 190 167 137 237
+bdaa bcca dbba bcbd dbba abbb aaad cdcd dcbb ccad ddcc bdba cbbc adab ddda dcca bddc cbcc acac adcd
+
+165 24 126 38 66 207 42 17 93 79 228 209 85 254 217 173 81 26 190 120 31 168
+abcc dbba bddb bbca baab cdad bcca aaba adbb cdab dacd aabd abbb bddd acbd adcc aabb bcba bddc dbdb cdba dbcc
+
+42 107 62 212 10 36 103 180 176 66 52 219 46 51 177 195 144 224 32 83 44 241
+bcca cccb bdda dabd bcaa daca cbcb dadc ddcc baab dada ccbd bdca cada aadc caad ddac ddbd ddba cabb dcca aadd
+
+111
+cdcb
+
+236 46 21 102 240 203 112 66 127 243
+dccd bdca abba bbcb ddcd ccad ddcb baab cddb cadd
+
+165 204 61
+abcc dcad adda
+
+188 131 110 104 16 164 228 248 204 117 19 151 87 119 208 9 189 22 170 153
+dcdc caac bdcb dbcb ddaa dacc dacd dbdd dcad abdb caba cbbc cbbb cbdb ddad acaa addc bbba bccc acbc
+
+243 167 103 155 155 149 150 159 205 194 231 109 188 105
+cadd cbcc cbcb ccbc ccbc abbc bbbc cdbc adad baad cbcd adcb dcdc accb
+
+36 57
+daca acda
+
+198 111 75 78 58 211 248 193 174 145 235 203 76 37 3 251 29 231 26 250 22 225
+bbad cdcb ccab bdab bcda cabd dbdd aaad bdcc aabc cccd ccad dcab abca caaa ccdd adba cbcd bcba bcdd bbba aacd
+
+18 42 151 154 114 33 151 255 92 195 219 198 81 60 220 157 80 176 38 19 176 75 10 172 121 93 137 228 229 16
+baba bcca cbbc bcbc badb aaca cbbc cddd dcbb caad ccbd bbad aabb dcda dcbd adbc ddab ddcc bbca caba ddcc ccab bcaa dccc acdb adbb acac dacd abcd ddaa
+
+69 245 246 16 181 248 144 77 235 82 194 134 121 67 70 147 129 71 206 32 186 202 113 36 140 23
+abab abdd bbdd ddaa abdc dbdd ddac adab cccd babb baad bbac acdb caab bbab cabc aaac cbab bdad ddba bcdc bcad aadb daca dcac cbba
+
+163 25 59
+cacc acba ccda
+
+93 35 65 106 144 70 69 5 227 138 151 165 223 75 173 7 114 46 74 82 45 86 178 19 48 93 43 60
+adbb caca aaab bccb ddac bbab abab abaa cacd bcac cbbc abcc cdbd ccab adcc cbaa badb bdca bcab babb adca bbbb badc caba ddca adbb ccca dcda
+
+231 1 247 206 236 192 43 157 15 218 123 184 170 39 70 84 141 53 243
+cbcd aaaa cbdd bdad dccd dddc ccca adbc cdaa bcbd ccdb dbdc bccc cbca bbab dabb adac abda cadd
+
+36 181 44 152 219 37 225 125 237 28 84 169 175 246 2 220 224 8 84 232 10 75
+daca abdc dcca dbbc ccbd abca aacd addb adcd dcba dabb accc cdcc bbdd baaa dcbd ddbd dbaa dabb dbcd bcaa ccab
+
+178 82 112 108 243 101
+badc babb ddcb dccb cadd abcb
+
+226 225 109 164 193 21 49 72 134 62 71 151 103 84 78 199 26 143 208 123
+bacd aacd adcb dacc aaad abba aada dbab bbac bdda cbab cbbc cbcb dabb bdab cbad bcba cdac ddad ccdb
+
+138 112 147 146 108 117 88 242 132 45 170 211 113 133 241 41 144 150 214 12 173 176 124 32 191 105 241
+bcac ddcb cabc babc dccb abdb dbbb badd daac adca bccc cabd aadb abac aadd acca ddac bbbc bbbd dcaa adcc ddcc dcdb ddba cddc accb aadd
+
+184 152 170 12 197 236 57 142 251 156 77 183 166 80 206 17 64 40 230 83 96 125 6 96 140 47 163
+dbdc dbbc bccc dcaa abad dccd acda bdac ccdd dcbc adab cbdc bbcc ddab bdad aaba ddda dbca bbcd cabb ddbb addb bbaa ddbb dcac cdca cacc
+
+245 74 35 26 117 18 184 132 82 112 66 116 35 81 24 66 9 99 87 176 50 209 81 158 240 42
+abdd bcab caca bcba abdb baba dbdc daac babb ddcb baab dadb caca aabb dbba baab acaa cacb cbbb ddcc bada aabd aabb bdbc ddcd bcca
+
+224 132
+ddbd daac
+
+90 100 14
+bcbb dacb bdaa
+
+131 201 35 64 71 149 192 162
+caac acad caca ddda cbab abbc dddc bacc
+
+153 5 84 77 76 35 158 92 76 117 60 123 84 76 209 246 240 28 66 254 129
+acbc abaa dabb adab dcab caca bdbc dcbb dcab abdb dcda ccdb dabb dcab aabd bbdd ddcd dcba baab bddd aaac
+
+180 127 130 13 105 105 198 241 208 194 205 253 79 221 230 228 208 171 101 168 92 12 137 250 22
+dadc cddb baac adaa accb accb bbad aadd ddad baad adad addd cdab adbd bbcd dacd ddad cccc abcb dbcc dcbb dcaa acac bcdd bbba
+
+74 97 208 245 10 174 189 84
+bcab aacb ddad abdd bcaa bdcc addc dabb
+
+13 150 50 185 229 47 85 153 225 75 209 192 194 145
+adaa bbbc bada acdc abcd cdca abbb acbc aacd ccab aabd dddc baad aabc
+
+13 81 33 179 129
+adaa aabb aaca cadc aaac
+
+3 33 238 243 25 155 223 101 225
+caaa aaca bdcd cadd acba ccbc cdbd abcb aacd
+
+233 200 19 10 17 76 59 192 212 71 110 164 175 96 117
+accd dbad caba bcaa aaba dcab ccda dddc dabd cbab bdcb dacc cdcc ddbb abdb
+
+197 78 100 56 92 74 255 120 187 89 64 133 229 73 222 243 228 53 119 101 252 173
+abad bdab dacb dbda dcbb bcab cddd dbdb ccdc acbb ddda abac abcd acab bdbd cadd dacd abda cbdb abcb dcdd adcc
+
+125 242 12 9 248 139 239 85 64 25
+addb badd dcaa acaa dbdd ccac cdcd abbb ddda acba
+
+226 110 183 229 116 107 98 45 239 59 29 201 95 192 60 137 158 7 138 128 42 41 100 225 94 140 204 202 66
+bacd bdcb cbdc abcd dadb cccb bacb adca cdcd ccda adba acad cdbb dddc dcda acac bdbc cbaa bcac dddb bcca acca dacb aacd bdbb dcac dcad bcad baab
+
+43 65 102 145 64 204 150 32 130 229 175 51 8 166 118 24 118 86 233 9 187 2 221 28
+ccca aaab bbcb aabc ddda dcad bbbc ddba baac abcd cdcc cada dbaa bbcc bbdb dbba bbdb bbbb accd acaa ccdc baaa adbd dcba
+
+23 118 112 190 176 102 227 232 62 57 150 9 155 251
+cbba bbdb ddcb bddc ddcc bbcb cacd dbcd bdda acda bbbc acaa ccbc ccdd
+
+161 46 209 168 175 26 22 92 145 129 131 78 99 131 13 55 186 91 167 79 167 125 38 143 239 12 23 176 151 42
+aacc bdca aabd dbcc cdcc bcba bbba dcbb aabc aaac caac bdab cacb caac adaa cbda bcdc ccbb cbcc cdab cbcc addb bbca cdac cdcd dcaa cbba ddcc cbbc bcca
+
+210 144 135 185 30 217 256 161 38 237 89 110 66 134 164 32 5 2 24 131 168 59 106 62 250 212 10
+babd ddac cbac acdc bdba acbd dddd aacc bbca adcd acbb bdcb baab bbac dacc ddba abaa baaa dbba caac dbcc ccda bccb bdda bcdd dabd bcaa
+
+199 212 11 171 179 30 147 22 232 70 74 165 60 91
+cbad dabd ccaa cccc cadc bdba cabc bbba dbcd bbab bcab abcc dcda ccbb
+
+205 83 150 189
+adad cabb bbbc addc
+
+94 48 36 10 63 42 133 49 247 102 71 47 17 55 117 167 60 122 189 245 94 231 186 23
+bdbb ddca daca bcaa cdda bcca abac aada cbdd bbcb cbab cdca aaba cbda abdb cbcc dcda bcdb addc abdd bdbb cbcd bcdc cbba
+
+90 46 60 123 165 153 253 176 107 111 232 39 47 208 95 160 253 229
+bcbb bdca dcda ccdb abcc acbc addd ddcc cccb cdcb dbcd cbca cdca ddad cdbb ddbc addd abcd
+
+180 247 124 69 228 227 151 7 218 81 134 49 254 14 135 245 11 146 49
+dadc cbdd dcdb abab dacd cacd cbbc cbaa bcbd aabb bbac aada bddd bdaa cbac abdd ccaa babc aada
+
+65 184 186 62 9
+aaab dbdc bcdc bdda acaa
+
+124 58 182 79 114 7 213 161 90 103 42 194 232 236 20 20 146
+dcdb bcda bbdc cdab badb cbaa abbd aacc bcbb cbcb bcca baad dbcd dccd daba daba babc
+
+76 162 40 15 125 171 20 170 7 14 223
+dcab bacc dbca cdaa addb cccc daba bccc cbaa bdaa cdbd
+
+129 62 96 215 222 186 229 31 208 13 116 164 50 70 78 109 233 230 166 232 166 184
+aaac bdda ddbb cbbd bdbd bcdc abcd cdba ddad adaa dadb dacc bada bbab bdab adcb accd bbcd bbcc dbcd bbcc dbdc
+
+211 145 74 91 114 54 249
+cabd aabc bcab ccbb badb bbda acdd
+
+255 77 10 115 31
+cddd adab bcaa cadb cdba
+
+228 239 253 101 177 118 252 256 176
+dacd cdcd addd abcb aadc bbdb dcdd dddd ddcc
+
+182 99 184 19 53 43 77 87 213 115 178 204 127 48 57 237 1 213 55 139 223 32 68 11 226 10 57 35
+bbdc cacb dbdc caba abda ccca adab cbbb abbd cadb badc dcad cddb ddca acda adcd aaaa abbd cbda ccac cdbd ddba daab ccaa bacd bcaa acda caca
+
+189 177 154 204 97 55 3 199 136 149 160 202 112 61 40 110 77 237 207 112
+addc aadc bcbc dcad aacb cbda caaa cbad dbac abbc ddbc bcad ddcb adda dbca bdcb adab adcd cdad ddcb
+
+144 86 151 29 156 182 204 67 110 245 250 62
+ddac bbbb cbbc adba dcbc bbdc dcad caab bdcb abdd bcdd bdda
+
+141 84 137 239 96 154 5 126 61 218 246 166 244 96 79
+adac dabb acac cdcd ddbb bcbc abaa bddb adda bcbd bbdd bbcc dadd ddbb cdab
+
+99 45 37 131 102 192 82
+cacb adca abca caac bbcb dddc babb
+
+74 189 163 12 23 131 138 41 59 188 239 162 191
+bcab addc cacc dcaa cbba caac bcac acca ccda dcdc cdcd bacc cddc
+
+244 99 161 139 227 217 24 37 52 121 238 25 32 196 205
+dadd cacb aacc ccac cacd acbd dbba abca dada acdb bdcd acba ddba daad adad
+
+136 28 135 143 187 44 91 7 186 254 173 22
+dbac dcba cbac cdac ccdc dcca ccbb cbaa bcdc bddd adcc bbba
+
+90 122 54 16 6 197 115 247 60
+bcbb bcdb bbda ddaa bbaa abad cadb cbdd dcda
+
+171
+cccc
+
+196 217 11 202 146 136 28 146 74 151 8 176 123 139 10 103 73 227 201 129 65 34 175 29 124 220
+daad acbd ccaa bcad babc dbac dcba babc bcab cbbc dbaa ddcc ccdb ccac bcaa cbcb acab cacd acad aaac aaab baca cdcc adba dcdb dcbd
+
+230 61 86 247 7 183 10
+bbcd adda bbbb cbdd cbaa cbdc bcaa
+
+168 225 231 162 58 115 235 22 10 230 68 23 98 204 253 50 30
+dbcc aacd cbcd bacc bcda cadb cccd bbba bcaa bbcd daab cbba bacb dcad addd bada bdba
+
+99 164 137 229 100 177 162 47 25 65 247 130 256 190 228 78 219 144 241 207 92 32 176 95 208 235 97
+cacb dacc acac abcd dacb aadc bacc cdca acba aaab cbdd baac dddd bddc dacd bdab ccbd ddac aadd cdad dcbb ddba ddcc cdbb ddad cccd aacb
+
+135 56 221 233 173 101 69 118
+cbac dbda adbd accd adcc abcb abab bbdb
+
+83 188 178 3 46 211 91 92
+cabb dcdc badc caaa bdca cabd ccbb dcbb
+
+172
+dccc
+
+207 248
+cdad dbdd
+
+48 47 145 103 206 5 25 147 115 133 175 134 77 114 225 96 126 174 40 99 173 95
+ddca cdca aabc cbcb bdad abaa acba cabc cadb abac cdcc bbac adab badb aacd ddbb bddb bdcc dbca cacb adcc cdbb
+
+122 224 2 15 242 169 166 224 117 47 67 212 157 31 21 102 47
+bcdb ddbd baaa cdaa badd accc bbcc ddbd abdb cdca caab dabd adbc cdba abba bbcb cdca
+
+122 176 65 88 255 154 251 54 91 153 181 177 234 19 217 232 171 211
+bcdb ddcc aaab dbbb cddd bcbc ccdd bbda ccbb acbc abdc aadc bccd caba acbd dbcd cccc cabd
+
+34 34 234 206 94 88 123 142 214 122 190 208 45 116 130 133 177 101 12 33 109 16 32 1 158 153
+baca baca bccd bdad bdbb dbbb ccdb bdac bbbd bcdb bddc ddad adca dadb baac abac aadc abcb dcaa aaca adcb ddaa ddba aaaa bdbc acbc
+
+32 35 254 89 40 15 213 153 198 123 114 198 62 126 6 256 202 81 190 63 181 164
+ddba caca bddd acbb dbca cdaa abbd acbc bbad ccdb badb bbad bdda bddb bbaa dddd bcad aabb bddc cdda abdc dacc
+
+124 119 73 176 197 102 171 173 138 43 215 63 149 184 180 161 76 62
+dcdb cbdb acab ddcc abad bbcb cccc adcc bcac ccca cbbd cdda abbc dbdc dadc aacc dcab bdda
+
+137 80 201 127 251 36
+acac ddab acad cddb ccdd daca
+
+223 155 169 187 244 184 86 42 5 122 36 16 2 205
+cdbd ccbc accc ccdc dadd dbdc bbbb bcca abaa bcdb daca ddaa baaa adad
+
+195 215 221 14 160 168 11 237 58 88 189 118 96 96 239 32 17 26 213 157 122 191 219 141 80 84 102 188 198
+caad cbbd adbd bdaa ddbc dbcc ccaa adcd bcda dbbb addc bbdb ddbb ddbb cdcd ddba aaba bcba abbd adbc bcdb cddc ccbd adac ddab dabb bbcb dcdc bbad
+
+126 90 115 252 200 35 203 7 150 176 107 8 208 42 233 133 48 85 62 218 108 38
+bddb bcbb cadb dcdd dbad caca ccad cbaa bbbc ddcc cccb dbaa ddad bcca accd abac ddca abbb bdda bcbd dccb bbca
+
+247 64
+cbdd ddda
+
+151 194 171 83 206 56 101 199 90 224 66 77 11 1 139 105
+cbbc baad cccc cabb bdad dbda abcb cbad bcbb ddbd baab adab ccaa aaaa ccac accb
+
+70 241 176 76 217 244 218 173 37 13 159 49 74 217 213 170 252
+bbab aadd ddcc dcab acbd dadd bcbd adcc abca adaa cdbc aada bcab acbd abbd bccc dcdd
+
+19 139 205 146 215 126 218 12 88 124 215 89 132 68
+caba ccac adad babc cbbd bddb bcbd dcaa dbbb dcdb cbbd acbb daac daab
+
+172 135 55 75 175 117 85 43 26 146 140 237 16 156 77 165 155 121 26 206
+dccc cbac cbda ccab cdcc abdb abbb ccca bcba babc dcac adcd ddaa dcbc adab abcc ccbc acdb bcba bdad
+
+82 6 48 158 54 98 106 199 79 115 71 77 78 79 106 162 113 244 117 112 155 121 192 53 225 44 50 83 38 135
+babb bbaa ddca bdbc bbda bacb bccb cbad cdab cadb cbab adab bdab cdab bccb bacc aadb dadd abdb ddcb ccbc acdb dddc abda aacd dcca bada cabb bbca cbac
+
+175 167 125 46 157 93 15 200 122 200 207 120 47 203 223 97 81 150 142 87 152 150
+cdcc cbcc addb bdca adbc adbb cdaa dbad bcdb dbad cdad dbdb cdca ccad cdbd aacb aabb bbbc bdac cbbb dbbc bbbc
+
+78 49
+bdab aada
+
+104 238 105 148 11 250 234 36 182 160 166 151 124 103 195 249 256 154 134 119 235 249 67 66 19
+dbcb bdcd accb dabc ccaa bcdd bccd daca bbdc ddbc bbcc cbbc dcdb cbcb caad acdd dddd bcbc bbac cbdb cccd acdd caab baab caba
+
+42 200 177 3 204 77 83 232 57 207 180 98
+bcca dbad aadc caaa dcad adab cabb dbcd acda cdad dadc bacb
+
+1 54 228 156 51 243 45 193 169
+aaaa bbda dacd dcbc cada cadd adca aaad accc
+
+117 219 23 141 139 220 214 180 186
+abdb ccbd cbba adac ccac dcbd bbbd dadc bcdc
+
+136 41 187 187 144 141 209 157 23 106 186 39
+dbac acca ccdc ccdc ddac adac aabd adbc cbba bccb bcdc cbca
+
+165 129 89 222 15 151 241 204 146 2 203 124 8 214 52 72
+abcc aaac acbb bdbd cdaa cbbc aadd dcad babc baaa ccad dcdb dbaa bbbd dada dbab
+
+247 96 93 203 168 99 191 9 171 227 247 255 73 76 23 123 191 38 64
+cbdd ddbb adbb ccad dbcc cacb cddc acaa cccc cacd cbdd cddd acab dcab cbba ccdb cddc bbca ddda
+
+135 44
+cbac dcca
+
+50 161 235 239 69 93 25 76 52 17 107 72 182 255 171 7 143 170 242
+bada aacc cccd cdcd abab adbb acba dcab dada aaba cccb dbab bbdc cddd cccc cbaa cdac bccc badd
+
+232 249 146 213 171 197 12 27 15 99
+dbcd acdd babc abbd cccc abad dcaa ccba cdaa cacb
+
+179 14 231 112 156 194 221 174 15 90 202 202 69 208 46 126 214 11 232 205 157 165 111 35 42 18 77 254 54 150
+cadc bdaa cbcd ddcb dcbc baad adbd bdcc cdaa bcbb bcad bcad abab ddad bdca bddb bbbd ccaa dbcd adad adbc abcc cdcb caca bcca baba adab bddd bbda bbbc
+
+132 147 176 69 109 168 1 210 72 113 86 3 5 36
+daac cabc ddcc abab adcb dbcc aaaa babd dbab aadb bbbb caaa abaa daca
+
+14 231 231 226 90 198 28 97 170 256 144 144 23 171 233 23
+bdaa cbcd cbcd bacd bcbb bbad dcba aacb bccc dddd ddac ddac cbba cccc accd cbba
+
+100 80 36 254 51 140 147 120 20 62 163 76 73 93 177 119 47 42 55
+dacb ddab daca bddd cada dcac cabc dbdb daba bdda cacc dcab acab adbb aadc cbdb cdca bcca cbda
+
+15 248 173 70 142 129 64 191 196 105 219 232 254 172 174 114 87 94 171 96 162 69 209 162 188 227 158 108
+cdaa dbdd adcc bbab bdac aaac ddda cddc daad accb ccbd dbcd bddd dccc bdcc badb cbbb bdbb cccc ddbb bacc abab aabd bacc dcdc cacd bdbc dccb
+
+154 97 144 46 250 232 19 64 75 98 104 170 67
+bcbc aacb ddac bdca bcdd dbcd caba ddda ccab bacb dbcb bccc caab
+
+124 135 19 211 116 148 141 121 152 5 152 46 99 83 153 207 58 23 223 219 82 131 218 110 25 236 103 234
+dcdb cbac caba cabd dadb dabc adac acdb dbbc abaa dbbc bdca cacb cabb acbc cdad bcda cbba cdbd ccbd babb caac bcbd bdcb acba dccd cbcb bccd
+
+230
+bbcd
+
+33 74 29 56 181 62 202 14 52 199 155 9 5 191 101 109 116 114 115 86 251 16 82 152 226 174 52 242
+aaca bcab adba dbda abdc bdda bcad bdaa dada cbad ccbc acaa abaa cddc abcb adcb dadb badb cadb bbbb ccdd ddaa babb dbbc bacd bdcc dada badd
+
+200 171
+dbad cccc
+
+79 85 34 170 165 239 199 142 49 231 232
+cdab abbb baca bccc abcc cdcd cbad bdac aada cbcd dbcd
+
+143 40 121 61 199 191 127 214 62 85 93 15 147 190 69 115 49 34 241 147 232 190 105 226 155 79 20 196 108
+cdac dbca acdb adda cbad cddc cddb bbbd bdda abbb adbb cdaa cabc bddc abab cadb aada baca aadd cabc dbcd bddc accb bacd ccbc cdab daba daad dccb
+
+185
+acdc
+
+226 135 218 100 57 91 120 15 43 15 64 145 55 41 93 47 131
+bacd cbac bcbd dacb acda ccbb dbdb cdaa ccca cdaa ddda aabc cbda acca adbb cdca caac
+
+232 35 249 38 25
+dbcd caca acdd bbca acba
+
+229 179 60 26 12 133 140 3 150 35 186 86 168 179 196 118 255 154 161 19 177 243 16 179 218 204 50 126 158
+abcd cadc dcda bcba dcaa abac dcac caaa bbbc caca bcdc bbbb dbcc cadc daad bbdb cddd bcbc aacc caba aadc cadd ddaa cadc bcbd dcad bada bddb bdbc
+
+172 51 86 233 154 67 41 62
+dccc cada bbbb accd bcbc caab acca bdda
+
+29 17 91 103 177 60 20 45 65 219 2
+adba aaba ccbb cbcb aadc dcda daba adca aaab ccbd baaa
+
+124 38 202 207 131 181 41
+dcdb bbca bcad cdad caac abdc acca
+
+149 182 100 80 86 170 24 131 171
+abbc bbdc dacb ddab bbbb bccc dbba caac cccc
+
+72 177 131 61 204 160 229 101 130 132 62 212 163 256 109 102 162 180 104
+dbab aadc caac adda dcad ddbc abcd abcb baac daac bdda dabd cacc dddd adcb bbcb bacc dadc dbcb
+
+132 69 166 194 138 159 243 231 216 61 80 23 43 252 73 152 230 143 53 38 30 185 209 69 215 60 57 142
+daac abab bbcc baad bcac cdbc cadd cbcd dbbd adda ddab cbba ccca dcdd acab dbbc bbcd cdac abda bbca bdba acdc aabd abab cbbd dcda acda bdac
+
+191 193 102 192 109 215 75 227 79 220 85 34 228 173 152 178 97 170 149 100 148 133 136 119 41 52 193 249
+cddc aaad bbcb dddc adcb cbbd ccab cacd cdab dcbd abbb baca dacd adcc dbbc badc aacb bccc abbc dacb dabc abac dbac cbdb acca dada aaad acdd
+
+229 47 141 228 152 244 34 152 107
+abcd cdca adac dacd dbbc dadd baca dbbc cccb
+
+20 173 126 170 106 12 213 229 13 235 20 21 28 246 83 203 171 67 142 206 205 239 219 18 156 80
+daba adcc bddb bccc bccb dcaa abbd abcd adaa cccd daba abba dcba bbdd cabb ccad cccc caab bdac bdad adad cdcd ccbd baba dcbc ddab
+
+151 46 170 159 211 206 232 241 171 80 177 16 118 215 16 138 13
+cbbc bdca bccc cdbc cabd bdad dbcd aadd cccc ddab aadc ddaa bbdb cbbd ddaa bcac adaa
+
+101 118 221 20 154 121 250 255 64 171 111 111 49 70 178 90 63 255 63 189 219 43 163 157
+abcb bbdb adbd daba bcbc acdb bcdd cddd ddda cccc cdcb cdcb aada bbab badc bcbb cdda cddd cdda addc ccbd ccca cacc adbc
+
+250 196 217 86 132 33 128 155 94 87 204 140 244 42 62 180 152 145 63 3 224 69 109 30 39 167 158
+bcdd daad acbd bbbb daac aaca dddb ccbc bdbb cbbb dcad dcac dadd bcca bdda dadc dbbc aabc cdda caaa ddbd abab adcb bdba cbca cbcc bdbc
+
+250 148 253 78 132 249 32
+bcdd dabc addd bdab daac acdd ddba
+
+136 139 44 134 3 248 130 63 230 215 124 199 3 217 101 213 25
+dbac ccac dcca bbac caaa dbdd baac cdda bbcd cbbd dcdb cbad caaa acbd abcb abbd acba
+
+77 21 23 256 169 81 167 108 127 4 188 45 163 74 24 215 125
+adab abba cbba dddd accc aabb cbcc dccb cddb daaa dcdc adca cacc bcab dbba cbbd addb
+
+8 189 93 107 119 154 164 148 197 77 137 1 72 15 231 83 105 241 140 169 1 236 28 63 200 113 85 64 106
+dbaa addc adbb cccb cbdb bcbc dacc dabc abad adab acac aaaa dbab cdaa cbcd cabb accb aadd dcac accc aaaa dccd dcba cdda dbad aadb abbb ddda bccb
+
+130 77 176 51
+baac adab ddcc cada
+
+176 187 61 53 13 227 217 1 217 196 202 180 173 45 172 213 150 121 63 223 98 162
+ddcc ccdc adda abda adaa cacd acbd aaaa acbd daad bcad dadc adcc adca dccc abbd bbbc acdb cdda cdbd bacb bacc
+
+90 27 143 185 112 52 11 72 153 207 247 26 136 48 155 129 108 34 192 79 117
+bcbb ccba cdac acdc ddcb dada ccaa dbab acbc cdad cbdd bcba dbac ddca ccbc aaac dccb baca dddc cdab abdb
+
+126 20 105 193 182 111 150 100 254 119 209 70 57 153 27 219 127 254 131 144 59 140 193 230 99 121 229
+bddb daba accb aaad bbdc cdcb bbbc dacb bddd cbdb aabd bbab acda acbc ccba ccbd cddb bddd caac ddac ccda dcac aaad bbcd cacb acdb abcd
+
+93 155 69 17 214 121 64 80 164 19 161 10 163 185 158 140
+adbb ccbc abab aaba bbbd acdb ddda ddab dacc caba aacc bcaa cacc acdc bdbc dcac
+
+32 222 106 115 118 39 233 123 152 33 31 185
+ddba bdbd bccb cadb bbdb cbca accd ccdb dbbc aaca cdba acdc
+
+185 72 30 161 238 229 6 127 125 25 73 1 25 64 194 29 230 128 8 84 164 145 214 166 103
+acdc dbab bdba aacc bdcd abcd bbaa cddb addb acba acab aaaa acba ddda baad adba bbcd dddb dbaa dabb dacc aabc bbbd bbcc cbcb
+
+207 230 22 137 240 126 240 82 217 113 129 134 184 196 124 152 17 193 236 235 126 64 92
+cdad bbcd bbba acac ddcd bddb ddcd babb acbd aadb aaac bbac dbdc daad dcdb dbbc aaba aaad dccd cccd bddb ddda dcbb
+
+1 148 146 1
+aaaa dabc babc aaaa
+
+101 112 144 182 135
+abcb ddcb ddac bbdc cbac
+
+53 61 91 74 227 18 199 105 220 59 163 166 113 18 67 61 214 212 113 48 106 72 108 69 182 232 142 160 28
+abda adda ccbb bcab cacd baba cbad accb dcbd ccda cacc bbcc aadb baba caab adda bbbd dabd aadb ddca bccb dbab dccb abab bbdc dbcd bdac ddbc dcba
+
+7 65 253 13 185 30 26 160 61 6 190 27 239 256 51
+cbaa aaab addd adaa acdc bdba bcba ddbc adda bbaa bddc ccba cdcd dddd cada
+
+79 156 212 201 4 175 217 217 27 116 192 72 34 69 162 79 130 227 2
+cdab dcbc dabd acad daaa cdcc acbd acbd ccba dadb dddc dbab baca abab bacc cdab baac cacd baaa
+
+216 236 195 147 121 147 167 211 117 190 110 66 7 81 235
+dbbd dccd caad cabc acdb cabc cbcc cabd abdb bddc bdcb baab cbaa aabb cccd
+
+137 248 64 123 111 164 92 86 112 92 88 254 89 121
+acac dbdd ddda ccdb cdcb dacc dcbb bbbb ddcb dcbb dbbb bddd acbb acdb
+
+212 35 205 26 73 124 217 231 75 178 219 2 25 76
+dabd caca adad bcba acab dcdb acbd cbcd ccab badc ccbd baaa acba dcab
+
+38 111 9 139 81 113 85 26 150 35 31 239
+bbca cdcb acaa ccac aabb aadb abbb bcba bbbc caca cdba cdcd
+
+37 76 176 83 34 146 125
+abca dcab ddcc cabb baca babc addb
+
+101 166 160 166 29 243
+abcb bbcc ddbc bbcc adba cadd
+
+123
+ccdb
+
+108 256 203 114 64 248 91 246 100 185 105 199
+dccb dddd ccad badb ddda dbdd ccbb bbdd dacb acdc accb cbad
+
+192 45 92 203 217 94 195 22 75 111 176
+dddc adca dcbb ccad acbd bdbb caad bbba ccab cdcb ddcc
+
+246 203 157 157 40 109 69 203 88 220 167 199 131 120 178 30 232 113 229 130 115 39 55 101 113
+bbdd ccad adbc adbc dbca adcb abab ccad dbbb dcbd cbcc cbad caac dbdb badc bdba dbcd aadb abcd baac cadb cbca cbda abcb aadb
+
+162 236 28 82 160 21 156 136 250 133 44 49 145 171 124 194 102 141 178 136 152 116 227 159 115
+bacc dccd dcba babb ddbc abba dcbc dbac bcdd abac dcca aada aabc cccc dcdb baad bbcb adac badc dbac dbbc dadb cacd cdbc cadb
+
+191 181 112 218 168 158 114 109 236 90 186 157 73 236 154 57 14 46 75
+cddc abdc ddcb bcbd dbcc bdbc badb adcb dccd bcbb bcdc adbc acab dccd bcbc acda bdaa bdca ccab
+
+61 199 59 150 68 177 124 64 185 25 241 113 74
+adda cbad ccda bbbc daab aadc dcdb ddda acdc acba aadd aadb bcab
+
+49 236 42 137 179 251 6 137 91 157 55 6 188 194 156 73 53 189
+aada dccd bcca acac cadc ccdd bbaa acac ccbb adbc cbda bbaa dcdc baad dcbc acab abda addc
+
+22 212 149 159 43 248 99 135 122
+bbba dabd abbc cdbc ccca dbdd cacb cbac bcdb
+
+9 238 210 52 100 198 117 125 42 232 147 104 47 67 228 142 185 179 134 16 178 32 244 59 165
+acaa bdcd babd dada dacb bbad abdb addb bcca dbcd cabc dbcb cdca caab dacd bdac acdc cadc bbac ddaa badc ddba dadd ccda abcc
+
+11 79 45 178 148 97 168 68 90 20 225 188 181 153 2 95 10 30 3 195
+ccaa cdab adca badc dabc aacb dbcc daab bcbb daba aacd dcdc abdc acbc baaa cdbb bcaa bdba caaa caad
+
+136 59 152 63 240 52 247 127 169 187 177 138 205 205 135 181 180 79 217 62 203 12 229 29 9
+dbac ccda dbbc cdda ddcd dada cbdd cddb accc ccdc aadc bcac adad adad cbac abdc dadc cdab acbd bdda ccad dcaa abcd adba acaa
+
+77 175
+adab cdcc
+
+115 9 125 206 20 224 249 104 26 244 17 57 208 202 162 137 61 108 189 171 215 139
+cadb acaa addb bdad daba ddbd acdd dbcb bcba dadd aaba acda ddad bcad bacc acac adda dccb addc cccc cbbd ccac
+
+38 62 191 99 115 84 209 120 191 80 198 20 75 201 245 45 5 243 201 166 251 236 143 179 220 174 75 173
+bbca bdda cddc cacb cadb dabb aabd dbdb cddc ddab bbad daba ccab acad abdd adca abaa cadd acad bbcc ccdd dccd cdac cadc dcbd bdcc ccab adcc
+
+172 199 116 86
+dccc cbad dadb bbbb
+
+185 201 124 249 14 240 11 160 8 85 9 158 178 35 21 136 243 32 13
+acdc acad dcdb acdd bdaa ddcd ccaa ddbc dbaa abbb acaa bdbc badc caca abba dbac cadd ddba adaa
+
+118 223 210 193 157 254 235 222 79 38 219 234 51 113 222 136 1 123 157 181 81 163 181 180
+bbdb cdbd babd aaad adbc bddd cccd bdbd cdab bbca ccbd bccd cada aadb bdbd dbac aaaa ccdb adbc abdc aabb cacc abdc dadc
+
+241 114 95 98 69 247 254 12 55 66 103 142 7 185 243 11 120 49 18 156 116 80 34 234 149 44 180
+aadd badb cdbb bacb abab cbdd bddd dcaa cbda baab cbcb bdac cbaa acdc cadd ccaa dbdb aada baba dcbc dadb ddab baca bccd abbc dcca dadc
+
+38 223 142 204 213 229 47 34 157 9 82 135 74 187 169 230 252 155 146 167 94 158
+bbca cdbd bdac dcad abbd abcd cdca baca adbc acaa babb cbac bcab ccdc accc bbcd dcdd ccbc babc cbcc bdbb bdbc
+
+166 20 17 122 124 244 27 76 108 15 208 188 16 183 124 24 254 244 186 223 67 255 96 25
+bbcc daba aaba bcdb dcdb dadd ccba dcab dccb cdaa ddad dcdc ddaa cbdc dcdb dbba bddd dadd bcdc cdbd caab cddd ddbb acba
+
+34 252 28 246 131 2 219 147 183 23 82 34 59 160 111 77 194 246 243 161 60 194 216
+baca dcdd dcba bbdd caac baaa ccbd cabc cbdc cbba babb baca ccda ddbc cdcb adab baad bbdd cadd aacc dcda baad dbbd
+
+227 19
+cacd caba
+
+154 88 142 70 208
+bcbc dbbb bdac bbab ddad
+
+240 119 229 87 205 141 84 75 31 152 39 195 7 192 256 209 75 29 102 2 67 71 8 241 174 120
+ddcd cbdb abcd cbbb adad adac dabb ccab cdba dbbc cbca caad cbaa dddc dddd aabd ccab adba bbcb baaa caab cbab dbaa aadd bdcc dbdb
+
+233 47 154 25 248 73 99 64 204 170 186 226 26 47 111 204
+accd cdca bcbc acba dbdd acab cacb ddda dcad bccc bcdc bacd bcba cdca cdcb dcad
+
+9 49 30 123 81 207 156 113 118 60 141 230 250 79
+acaa aada bdba ccdb aabb cdad dcbc aadb bbdb dcda adac bbcd bcdd cdab
+
+191
+cddc
+
+222 205 237 134 40 107 219 55 130 154 86 156 13 136 193 162 32
+bdbd adad adcd bbac dbca cccb ccbd cbda baac bcbc bbbb dcbc adaa dbac aaad bacc ddba
+
+111 225 244 160 23 6 164 64 148 131 35
+cdcb aacd dadd ddbc cbba bbaa dacc ddda dabc caac caca
+
+189 174 225 135 22 28 201 121 208 132 82 146 205
+addc bdcc aacd cbac bbba dcba acad acdb ddad daac babb babc adad
+
+149 64 75 252 71 203 61
+abbc ddda ccab dcdd cbab ccad adda
+
+121 239 220 156 108 109 69 200 45 211 76 42 231 85
+acdb cdcd dcbd dcbc dccb adcb abab dbad adca cabd dcab bcca cbcd abbb
+
+170 125 231 191 42 108 49 22 182 4 15 15 187 182 123
+bccc addb cbcd cddc bcca dccb aada bbba bbdc daaa cdaa cdaa ccdc bbdc ccdb
+
+21 57 67 238 223 130 89 256 38 54 22 70 148 115 58 42
+abba acda caab bdcd cdbd baac acbb dddd bbca bbda bbba bbab dabc cadb bcda bcca
+
+174 226 6 165 116 29 117 94 142 53 81 251 109 233 196 103 112 55 27 54 56 224 131 18 33 2 255 227 11 217
+bdcc bacd bbaa abcc dadb adba abdb bdbb bdac abda aabb ccdd adcb accd daad cbcb ddcb cbda ccba bbda dbda ddbd caac baba aaca baaa cddd cacd ccaa acbd
+
+96 236 133 44 14 177 185
+ddbb dccd abac dcca bdaa aadc acdc
+
+179 80 94 109 55 68 64 44 243 104 23 157 59 207 6 202 241 133 53 229 4
+cadc ddab bdbb adcb cbda daab ddda dcca cadd dbcb cbba adbc ccda cdad bbaa bcad aadd abac abda abcd daaa
+
+1 5 157 176 227
+aaaa abaa adbc ddcc cacd
+
+88 202 9 114 134 223 137 9 158 129 194 86 249 59 26 115 42 170 223 236 98 195 113 157 185
+dbbb bcad acaa badb bbac cdbd acac acaa bdbc aaac baad bbbb acdd ccda bcba cadb bcca bccc cdbd dccd bacb caad aadb adbc acdc
+
+203 174 8 98 136 76 114 246 47 224 146 71 75 72 160 213 36 189 194 108 98 20 7 76 132
+ccad bdcc dbaa bacb dbac dcab badb bbdd cdca ddbd babc cbab ccab dbab ddbc abbd daca addc baad dccb bacb daba cbaa dcab daac
+
+219 152 153 154 169 106
+ccbd dbbc acbc bcbc accc bccb
+
+113
+aadb
+
+163 128 202 109 2 117 136 218 89 30 185 210 96
+cacc dddb bcad adcb baaa abdb dbac bcbd acbb bdba acdc babd ddbb
+
+16 57 188 185 25 60 92 148 77 103 178 33 61 142
+ddaa acda dcdc acdc acba dcda dcbb dabc adab cbcb badc aaca adda bdac
+
+71 144 138 5 47 108 105 204 179 158 81 101 57 116
+cbab ddac bcac abaa cdca dccb accb dcad cadc bdbc aabb abcb acda dadb
+
+30 198 35 7 138 205 48 125 63 226 150 198 51 251 191 201 168 141 39 2
+bdba bbad caca cbaa bcac adad ddca addb cdda bacd bbbc bbad cada ccdd cddc acad dbcc adac cbca baaa
+
+120 238 120 225 54 184 220
+dbdb bdcd dbdb aacd bbda dbdc dcbd
+
+59 198 231 167 161 113 162 203
+ccda bbad cbcd cbcc aacc aadb bacc ccad
+
+71 198 95 191 239 247 163 19 160 203 113 199 238 130 162 233 125 182 33 174 203 37 204 7 177 246
+cbab bbad cdbb cddc cdcd cbdd cacc caba ddbc ccad aadb cbad bdcd baac bacc accd addb bbdc aaca bdcc ccad abca dcad cbaa aadc bbdd
+
+164 143 86 101 83 179 40 246 210 169 41 27 179 147 189 67 98 155 228 167 107 56 20 115 125 12 161 81 78
+dacc cdac bbbb abcb cabb cadc dbca bbdd babd accc acca ccba cadc cabc addc caab bacb ccbc dacd cbcc cccb dbda daba cadb addb dcaa aacc aabb bdab
+
+52 161 150 223 125 87 172 202 198 131 176 204 252 140 256 38 104 67 163 14 185 244 185 148 109 198 209 183 233
+dada aacc bbbc cdbd addb cbbb dccc bcad bbad caac ddcc dcad dcdd dcac dddd bbca dbcb caab cacc bdaa acdc dadd acdc dabc adcb bbad aabd cbdc accd
+
+6 242 80 183 206 65 115 52 48 86 156 197 250 105 46 128 111 89 56 65 245 1 221 219 10 248 96
+bbaa badd ddab cbdc bdad aaab cadb dada ddca bbbb dcbc abad bcdd accb bdca dddb cdcb acbb dbda aaab abdd aaaa adbd ccbd bcaa dbdd ddbb
+
+155 8 131 95 148 23 100 128 101 103 74 144 98
+ccbc dbaa caac cdbb dabc cbba dacb dddb abcb cbcb bcab ddac bacb
+
+12 143 42 82 104 146 25 48 91 83
+dcaa cdac bcca babb dbcb babc acba ddca ccbb cabb
+
+110 83 118 33 47 50 255 61 242 165 78 93 109 219 18 40 123 165 62 159 9 232 97 69 241 199
+bdcb cabb bbdb aaca cdca bada cddd adda badd abcc bdab adbb adcb ccbd baba dbca ccdb abcc bdda cdbc acaa dbcd aacb abab aadd cbad
+
+38 134 157 119 141 221 131 172 47 213 205
+bbca bbac adbc cbdb adac adbd caac dccc cdca abbd adad
+
+108 211 44 146 247 224 107 93 80 142 14 4 39 144 137 243 150 228 96 68 118 238 92 222 100 98 93
+dccb cabd dcca babc cbdd ddbd cccb adbb ddab bdac bdaa daaa cbca ddac acac cadd bbbc dacd ddbb daab bbdb bdcd dcbb bdbd dacb bacb adbb
+
+22 51 8 180 145 3 250 7 6 212 230 199 143 211 8 20 108 80 191 74 29 163
+bbba cada dbaa dadc aabc caaa bcdd cbaa bbaa dabd bbcd cbad cdac cabd dbaa daba dccb ddab cddc bcab adba cacc
+
+227 224 91 63 68 37 160 94 171 130 146 78 23 95 104 218 117 112 234 190 10 229 70 204 13 4 106 54 33
+cacd ddbd ccbb cdda daab abca ddbc bdbb cccc baac babc bdab cbba cdbb dbcb bcbd abdb ddcb bccd bddc bcaa abcd bbab dcad adaa daaa bccb bbda aaca
+
+195 126 144 160 164 149 211 45 99 98 228 121 87 21 16 111 46 104 233
+caad bddb ddac ddbc dacc abbc cabd adca cacb bacb dacd acdb cbbb abba ddaa cdcb bdca dbcb accd
+
+233 53 189 225 19 84 173
+accd abda addc aacd caba dabb adcc
+
+246 133 164
+bbdd abac dacc
+
+85 10 155 66 55 184 184 48 118 204 97 14 137 256 108 139 221 216 226 90 217 234 78 55 115 190 129
+abbb bcaa ccbc baab cbda dbdc dbdc ddca bbdb dcad aacb bdaa acac dddd dccb ccac adbd dbbd bacd bcbb acbd bccd bdab cbda cadb bddc aaac
+
+103 179 112 103 10 200 5 107 217 143 209 194 252 9 119 135 92 238 10
+cbcb cadc ddcb cbcb bcaa dbad abaa cccb acbd cdac aabd baad dcdd acaa cbdb cbac dcbb bdcd bcaa
+
+122 237 203 23 249 60 91
+bcdb adcd ccad cbba acdd dcda ccbb
+
+227 52
+cacd dada
+
+106 73 248 125 54 220 147 75 246 179 36 1 187 103
+bccb acab dbdd addb bbda dcbd cabc ccab bbdd cadc daca aaaa ccdc cbcb
+
+147 158 57
+cabc bdbc acda
+
+214 6 234 186 10 254 127 156 86 160 28 32 229 50 80 33 62
+bbbd bbaa bccd bcdc bcaa bddd cddb dcbc bbbb ddbc dcba ddba abcd bada ddab aaca bdda
+
+235 60 5 204 19 193 46 108 127 140 20 50 10 61 105 86 71 96 28 153 209
+cccd dcda abaa dcad caba aaad bdca dccb cddb dcac daba bada bcaa adda accb bbbb cbab ddbb dcba acbc aabd
+
+37 51 36 231 19 102 160 251 159 3 144 154 149 185 229 94 81 189 225 36 156 87 170 6 130 48 162 60 216
+abca cada daca cbcd caba bbcb ddbc ccdd cdbc caaa ddac bcbc abbc acdc abcd bdbb aabb addc aacd daca dcbc cbbb bccc bbaa baac ddca bacc dcda dbbd
+
+174 220 140 167 155 65 35 121 248 218 217 190 107
+bdcc dcbd dcac cbcc ccbc aaab caca acdb dbdd bcbd acbd bddc cccb
+
+175 78 91 241 231 127 95 154 88 131 158 120 20 95 55 183 46
+cdcc bdab ccbb aadd cbcd cddb cdbb bcbc dbbb caac bdbc dbdb daba cdbb cbda cbdc bdca
+
+85 234 2 120 47 160 64 86 245 174 116 160 190 255 165 239 8 102 253 191
+abbb bccd baaa dbdb cdca ddbc ddda bbbb abdd bdcc dadb ddbc bddc cddd abcc cdcd dbaa bbcb addd cddc
+
+236 163 92 3 215 20 235 221 33 214 115 187 147 141 220 121 256 171 170 50 65 158 247 154 194 86 100 5
+dccd cacc dcbb caaa cbbd daba cccd adbd aaca bbbd cadb ccdc cabc adac dcbd acdb dddd cccc bccc bada aaab bdbc cbdd bcbc baad bbbb dacb abaa
+
+168 140 36 75 96 136 98 202 80 33 85 93 166
+dbcc dcac daca ccab ddbb dbac bacb bcad ddab aaca abbb adbb bbcc
+
+63 103 55 93 18 5 14 230 256 57 256 9 41 187 140 180 178 187 183 3 117 138 12 76
+cdda cbcb cbda adbb baba abaa bdaa bbcd dddd acda dddd acaa acca ccdc dcac dadc badc ccdc cbdc caaa abdb bcac dcaa dcab
+
+146 184 96 171 29 76 253 162 254 124 234 90 86 161 137 17 248 53 246
+babc dbdc ddbb cccc adba dcab addd bacc bddd dcdb bccd bcbb bbbb aacc acac aaba dbdd abda bbdd
+
+99 184 249 116 44 157 216
+cacb dbdc acdd dadb dcca adbc dbbd
+
+232 195 160 134 103 26
+dbcd caad ddbc bbac cbcb bcba
+
+25 76 126 10 230 230 208 98 246 80 156 132 8 46 5 244 185 62 10 57 60 245
+acba dcab bddb bcaa bbcd bbcd ddad bacb bbdd ddab dcbc daac dbaa bdca abaa dadd acdc bdda bcaa acda dcda abdd
+
+34 196 180 227 47 146 99 71 98 100 91 47 72 98 107 68 58 165 148 71 249 235 221 73 16 113 71 83 35 52
+baca daad dadc cacd cdca babc cacb cbab bacb dacb ccbb cdca dbab bacb cccb daab bcda abcc dabc cbab acdd cccd adbd acab ddaa aadb cbab cabb caca dada
+
+158 228 39 223 217 165 1 243 167 21 86 121 144 16 53 68
+bdbc dacd cbca cdbd acbd abcc aaaa cadd cbcc abba bbbb acdb ddac ddaa abda daab
+
+40 90 191 253 96 175 88 226 108 203 156 209 40 139 108 103 41 117 158 109 2 57 1 128 42
+dbca bcbb cddc addd ddbb cdcc dbbb bacd dccb ccad dcbc aabd dbca ccac dccb cbcb acca abdb bdbc adcb baaa acda aaaa dddb bcca
+
+51 104 10 45 200 151 253 251 63 132 176 224 87 155 92 62 105 214
+cada dbcb bcaa adca dbad cbbc addd ccdd cdda daac ddcc ddbd cbbb ccbc dcbb bdda accb bbbd
+
+6 1 174 207 116 192 182 73
+bbaa aaaa bdcc cdad dadb dddc bbdc acab
+
+113 123 62 92 206 23 16 80 111 33 163 138 35 125 245 84 249 178 180 23 234 180 163 13 133 196
+aadb ccdb bdda dcbb bdad cbba ddaa ddab cdcb aaca cacc bcac caca addb abdd dabb acdd badc dadc cbba bccd dadc cacc adaa abac daad
+
+122 196 137 247 38 141 117 76 88 72 233 128 224 217 204 247 142 219 88 154 1
+bcdb daad acac cbdd bbca adac abdb dcab dbbb dbab accd dddb ddbd acbd dcad cbdd bdac ccbd dbbb bcbc aaaa
+
+239 23 25 132 144 251 242 82 173 95 80 166 8 254
+cdcd cbba acba daac ddac ccdd badd babb adcc cdbb ddab bbcc dbaa bddd
+
+132 153 28 9 79 104 112 158 182 153 218 45 36 105 59 41 138 48 92 70
+daac acbc dcba acaa cdab dbcb ddcb bdbc bbdc acbc bcbd adca daca accb ccda acca bcac ddca dcbb bbab
+
+77 29 10 220 62 58 35 2 256 250 83 129 25
+adab adba bcaa dcbd bdda bcda caca baaa dddd bcdd cabb aaac acba
+
+146 239 213 39 91 21 104 88 124 247 18 220 2 88 187 241 113 193 95 40 6 53 52 144 248
+babc cdcd abbd cbca ccbb abba dbcb dbbb dcdb cbdd baba dcbd baaa dbbb ccdc aadd aadb aaad cdbb dbca bbaa abda dada ddac dbdd
+
+64 16 229 197 104 41 225 134 109 216
+ddda ddaa abcd abad dbcb acca aacd bbac adcb dbbd
+
+59 214 22 145 151 35 228 237 92 38 28 105 7 163 164 81 250 81 170 177 39 173 180 133 242 13 64 230 170
+ccda bbbd bbba aabc cbbc caca dacd adcd dcbb bbca dcba accb cbaa cacc dacc aabb bcdd aabb bccc aadc cbca adcc dadc abac badd adaa ddda bbcd bccc
+
+93 23 249 93 96 24 38 238 111 50 189 172 67 198 110
+adbb cbba acdd adbb ddbb dbba bbca bdcd cdcb bada addc dccc caab bbad bdcb
+
+69 183 171 135 43 238 134 185 59 217
+abab cbdc cccc cbac ccca bdcd bbac acdc ccda acbd
+
+153 57 31 250 114 140 130 52 181 83
+acbc acda cdba bcdd badb dcac baac dada abdc cabb
+
+56 146 34 162 242 16 65 14 137 61 184 40 109 131 3 142 256 130 11 59
+dbda babc baca bacc badd ddaa aaab bdaa acac adda dbdc dbca adcb caac caaa bdac dddd baac ccaa ccda
+
+223 12 27 169 150 107 203 7 240 83 250 36 228 109 204
+cdbd dcaa ccba accc bbbc cccb ccad cbaa ddcd cabb bcdd daca dacd adcb dcad
+
+57 195 39 92 20 178 68 167 100 147 58 242 178 175 127 238 58 22 6 50 226 228 220 207 229 241 169 206 25
+acda caad cbca dcbb daba badc daab cbcc dacb cabc bcda badd badc cdcc cddb bdcd bcda bbba bbaa bada bacd dacd dcbd cdad abcd aadd accc bdad acba
+
+217 195 130 81 93 173 64 27 48 134 3 79 90 83 219 122 210 181
+acbd caad baac aabb adbb adcc ddda ccba ddca bbac caaa cdab bcbb cabb ccbd bcdb babd abdc
+
+231 236 214 182 17 177 73 118 164 49 90 153 176 185 184 6 184
+cbcd dccd bbbd bbdc aaba aadc acab bbdb dacc aada bcbb acbc ddcc acdc dbdc bbaa dbdc
+
+252 145 125 221 20 127 112 224 18 86 210 89 85 171 239 7 94 252 96 186 21 136 225 113 200
+dcdd aabc addb adbd daba cddb ddcb ddbd baba bbbb babd acbb abbb cccc cdcd cbaa bdbb dcdd ddbb bcdc abba dbac aacd aadb dbad
+
+6 35 135 247 236
+bbaa caca cbac cbdd dccd
+
+125 91 221 83 174 205 49 195 213 103 132 77 132 231 255 234 96 207 113 112
+addb ccbb adbd cabb bdcc adad aada caad abbd cbcb daac adab daac cbcd cddd bccd ddbb cdad aadb ddcb
+
+67 60 73
+caab dcda acab
+
+180 124 170 101 211 38 50 46 125 64 176 116 118 218 67 98 147
+dadc dcdb bccc abcb cabd bbca bada bdca addb ddda ddcc dadb bbdb bcbd caab bacb cabc
+
+93 191 205 11 231 17 99 150 50 45 70 115 68 120 105 6
+adbb cddc adad ccaa cbcd aaba cacb bbbc bada adca bbab cadb daab dbdb accb bbaa
+
+202 42 62 178 29 181 2 14 61 202 28 123 120 36 145 144 248 71 218 156 221 16 161 28 91 7
+bcad bcca bdda badc adba abdc baaa bdaa adda bcad dcba ccdb dbdb daca aabc ddac dbdd cbab bcbd dcbc adbd ddaa aacc dcba ccbb cbaa
+
+16 216 10 51 139 119 29 40 13 19 21 197 69
+ddaa dbbd bcaa cada ccac cbdb adba dbca adaa caba abba abad abab
+
+66 218 15 18 93 41 74 186 56 158 196 98 37 51 14 152 37 63 49
+baab bcbd cdaa baba adbb acca bcab bcdc dbda bdbc daad bacb abca cada bdaa dbbc abca cdda aada
+
+129 108 242 139 3 216 255 219 206 102 193 2 143 78 71 35 234 205 247 220 148 39
+aaac dccb badd ccac caaa dbbd cddd ccbd bdad bbcb aaad baaa cdac bdab cbab caca bccd adad cbdd dcbd dabc cbca
+
+64 98 131 46 209 124 222 13 80 215 127 217 205 24 189 229 115 225 92 180
+ddda bacb caac bdca aabd dcdb bdbd adaa ddab cbbd cddb acbd adad dbba addc abcd cadb aacd dcbb dadc
+
+105 125 156 48
+accb addb dcbc ddca
+
+52 170 66 116 256 183 42 84 128 51 14 64 201 211 120 206 149 115 168 140 206 82 243 114 61 204 57 201 212
+dada bccc baab dadb dddd cbdc bcca dabb dddb cada bdaa ddda acad cabd dbdb bdad abbc cadb dbcc dcac bdad babb cadd badb adda dcad acda acad dabd
+
+158 176 240 230
+bdbc ddcc ddcd bbcd
+
+61 185 111 168 131 75 128 161 185 8 135 227 29 18 123 143
+adda acdc cdcb dbcc caac ccab dddb aacc acdc dbaa cbac cacd adba baba ccdb cdac
+
+187
+ccdc
+
+131 191 42 116 138 250 209 235 152 223 138 92 113 58 50 82 157 200 34 63 147
+caac cddc bcca dadb bcac bcdd aabd cccd dbbc cdbd bcac dcbb aadb bcda bada babb adbc dbad baca cdda cabc
+
+165 182 168
+abcc bbdc dbcc
+
+160 44 67 191 172 76 165 76 129 196 250 26 9 71 113 226
+ddbc dcca caab cddc dccc dcab abcc dcab aaac daad bcdd bcba acaa cbab aadb bacd
+
+71 117 45 60 253 6 31 108 81 160 203 141 196 195 213 32 104
+cbab abdb adca dcda addd bbaa cdba dccb aabb ddbc ccad adac daad caad abbd ddba dbcb
+
+62 82 94 203 187 34 43 227 250 95 108 105 183 179 128 134 32
+bdda babb bdbb ccad ccdc baca ccca cacd bcdd cdbb dccb accb cbdc cadc dddb bbac ddba
+
+232 85 160 10 202 156 18 211 144 183 105 56 230 36 131 135 3
+dbcd abbb ddbc bcaa bcad dcbc baba cabd ddac cbdc accb dbda bbcd daca caac cbac caaa
+
+64 8 132 240 25 111 15 253 162 206 80 45
+ddda dbaa daac ddcd acba cdcb cdaa addd bacc bdad ddab adca
+
+208
+ddad
+
+210 163 154 71 134 224 215 218 229
+babd cacc bcbc cbab bbac ddbd cbbd bcbd abcd
+
+100 230 22
+dacb bbcd bbba
+
+68 37 66 110 83 204 249 90 133
+daab abca baab bdcb cabb dcad acdd bcbb abac
+
+143 37 138 39 146 126 25 161 12 16 212 164
+cdac abca bcac cbca babc bddb acba aacc dcaa ddaa dabd dacc
+
+157 239 179 127
+adbc cdcd cadc cddb
+
+19 207
+caba cdad
+
+203 132 203 189 54 66 45 128 63 83 66 107 132
+ccad daac ccad addc bbda baab adca dddb cdda cabb baab cccb daac
+
+151 238 244 248 18 138 177 256 35 209 16
+cbbc bdcd dadd dbdd baba bcac aadc dddd caca aabd ddaa
+
+101 53 192 197 67 247 74 239 52 138 90 138 70 69 209 228 119 43 159 88 49
+abcb abda dddc abad caab cbdd bcab cdcd dada bcac bcbb bcac bbab abab aabd dacd cbdb ccca cdbc dbbb aada
+
+103 177 172 68 93 163 65 187 118 179 188 152 54 224 54 166 189 34 100 6 106 114 1 208 119 4 193 10
+cbcb aadc dccc daab adbb cacc aaab ccdc bbdb cadc dcdc dbbc bbda ddbd bbda bbcc addc baca dacb bbaa bccb badb aaaa ddad cbdb daaa aaad bcaa
+
+36 68 206 119 144 11 95
+daca daab bdad cbdb ddac ccaa cdbb
+
+139 13 6 139 207 178 255 134 190 222 30 155 64 108 116 249 210 152 220 230 121 172 216 31 37 16 114 157 214 124
+ccac adaa bbaa ccac cdad badc cddd bbac bddc bdbd bdba ccbc ddda dccb dadb acdd babd dbbc dcbd bbcd acdb dccc dbbd cdba abca ddaa badb adbc bbbd dcdb
+
+103 156 203 226 246 163 192 62 20 180 212 201
+cbcb dcbc ccad bacd bbdd cacc dddc bdda daba dadc dabd acad
+
+78 143 52 165 16 198 156 37 157 156 220 133 12 242 190 196 121 17 54 128 91 247 191 139 248 139 256 3
+bdab cdac dada abcc ddaa bbad dcbc abca adbc dcbc dcbd abac dcaa badd bddc daad acdb aaba bbda dddb ccbb cbdd cddc ccac dbdd ccac dddd caaa
+
+4 189 82
+daaa addc babb
+
+81 248 72 99 171 118 35 225 33 203 93 126 151 76 26 14 62 142 88
+aabb dbdd dbab cacb cccc bbdb caca aacd aaca ccad adbb bddb cbbc dcab bcba bdaa bdda bdac dbbb
+
+50 193 143 107 68 55 191 120
+bada aaad cdac cccb daab cbda cddc dbdb
+
+231 215 5 193 135
+cbcd cbbd abaa aaad cbac
+
+165 79 5 226 31 67 110 204 55 212 123 217 82 224 240 101 134 181 118 120 191 148 22 19 6 40 84
+abcc cdab abaa bacd cdba caab bdcb dcad cbda dabd ccdb acbd babb ddbd ddcd abcb bbac abdc bbdb dbdb cddc dabc bbba caba bbaa dbca dabb
+
+11 254 102 101 119 245 203 243 53 183 79 202 214 217 161 175 132 130 104 3 225 218
+ccaa bddd bbcb abcb cbdb abdd ccad cadd abda cbdc cdab bcad bbbd acbd aacc cdcc daac baac dbcb caaa aacd bcbd
+
+163 118 109 168 62 77 235 220 57 243 124 87 120 140 255 70 129 101 172 174
+cacc bbdb adcb dbcc bdda adab cccd dcbd acda cadd dcdb cbbb dbdb dcac cddd bbab aaac abcb dccc bdcc
+
+253 181 180 179 150 225 122 251 27 95 75 235 176 72 181 66 31 205 256 37 48 190 147 143 67 44 138 99
+addd abdc dadc cadc bbbc aacd bcdb ccdd ccba cdbb ccab cccd ddcc dbab abdc baab cdba adad dddd abca ddca bddc cabc cdac caab dcca bcac cacb
+
+30 208 98 84 83 7 60 6 187 218 22 228 4 2 67 226 146 7 76 236 112 171 86 66
+bdba ddad bacb dabb cabb cbaa dcda bbaa ccdc bcbd bbba dacd daaa baaa caab bacd babc cbaa dcab dccd ddcb cccc bbbb baab
+
+56 200 136 7 204 233 50
+dbda dbad dbac cbaa dcad accd bada
+
+178 67 99 161 168
+badc caab cacb aacc dbcc
+
+39 79 211 236 149 232 61 151 45 136 60 140 101 213 36 240 220 96 163 208 186 146 132 218 113 204
+cbca cdab cabd dccd abbc dbcd adda cbbc adca dbac dcda dcac abcb abbd daca ddcd dcbd ddbb cacc ddad bcdc babc daac bcbd aadb dcad
+
+198 11 36 83 85 102 113 207 10 127 219 97 29 183 171 229 104 60 186 190 204 103 27 31 217 115 232 190 79
+bbad ccaa daca cabb abbb bbcb aadb cdad bcaa cddb ccbd aacb adba cbdc cccc abcd dbcb dcda bcdc bddc dcad cbcb ccba cdba acbd cadb dbcd bddc cdab
+
+235 235 131 227 81 106 182
+cccd cccd caac cacd aabb bccb bbdc
+
+117 170 116 129 57 198 31 82 51
+abdb bccc dadb aaac acda bbad cdba babb cada
+
+214 177 180 60 55 256 237 165 46 21 52 246 93 171
+bbbd aadc dadc dcda cbda dddd adcd abcc bdca abba dada bbdd adbb cccc
+
+21 11 43 231 213 214 23
+abba ccaa ccca cbcd abbd bbbd cbba
+
+43 97 30
+ccca aacb bdba
+
+84 95 178 204 122 187 24 96 97 40 121 201 180 111 41 208 141 55 50 128 43
+dabb cdbb badc dcad bcdb ccdc dbba ddbb aacb dbca acdb acad dadc cdcb acca ddad adac cbda bada dddb ccca
+
+192 224 86 215 50 174 46 25
+dddc ddbd bbbb cbbd bada bdcc bdca acba
+
+164 170 248 57 187 23 195 3 150 175 183 239 223 192 58 216 65 231 226 182 76
+dacc bccc dbdd acda ccdc cbba caad caaa bbbc cdcc cbdc cdcd cdbd dddc bcda dbbd aaab cbcd bacd bbdc dcab
+
+14 63 235 232 153 81 240 236 247 39 189 24 145 241 149 140 213 108
+bdaa cdda cccd dbcd acbc aabb ddcd dccd cbdd cbca addc dbba aabc aadd abbc dcac abbd dccb
+
+16 201 126 71 16 103 95 100
+ddaa acad bddb cbab ddaa cbcb cdbb dacb
+
+209 210 17 128 191 103 31 132 6 139 120 225 151 4 64 155 114 232 202
+aabd babd aaba dddb cddc cbcb cdba daac bbaa ccac dbdb aacd cbbc daaa ddda ccbc badb dbcd bcad
+
+88 67 19 129 219 119 24 106 208 256 231 165 206 199 130 27 163 80 249
+dbbb caab caba aaac ccbd cbdb dbba bccb ddad dddd cbcd abcc bdad cbad baac ccba cacc ddab acdd
+
+255 194 88 38 255 213
+cddd baad dbbb bbca cddd abbd
+
+59 207 157 130
+ccda cdad adbc baac
+
+27
+ccba
+
+39 143 256 96 111 253 246 119 209 38
+cbca cdac dddd ddbb cdcb addd bbdd cbdb aabd bbca
+
+142 175 19 224
+bdac cdcc caba ddbd
+
+46 149 62 211 48 180 150 142 234 106 58
+bdca abbc bdda cabd ddca dadc bbbc bdac bccd bccb bcda
+
+31 256 44 243 121 237 109 105
+cdba dddd dcca cadd acdb adcd adcb accb
+
+181 126 129 63 224 190 130 2 14 193 175 191 75 112 226 95 183
+abdc bddb aaac cdda ddbd bddc baac baaa bdaa aaad cdcc cddc ccab ddcb bacd cdbb cbdc
+
+22 141 101 61 87 173 47 144 253 73 55 256
+bbba adac abcb adda cbbb adcc cdca ddac addd acab cbda dddd
+
+118 233 140 184 16 114 228 76 240
+bbdb accd dcac dbdc ddaa badb dacd dcab ddcd
+
+9 255 189 230 77 131
+acaa cddd addc bbcd adab caac
+
+73 172 182 51 224 188 93 8 98 162 76 90 67 22 167 209 73 206 29 32 234 242 225
+acab dccc bbdc cada ddbd dcdc adbb dbaa bacb bacc dcab bcbb caab bbba cbcc aabd acab bdad adba ddba bccd badd aacd
+
+248 221 149 32 236 147 165 131 115 3 156 192 76 231 78 90 121 175 191 47 145 40
+dbdd adbd abbc ddba dccd cabc abcc caac cadb caaa dcbc dddc dcab cbcd bdab bcbb acdb cdcc cddc cdca aabc dbca
+
+148 136 134 191 115 126 113 86 201 168 130 243 3 93
+dabc dbac bbac cddc cadb bddb aadb bbbb acad dbcc baac cadd caaa adbb
+
+14 139
+bdaa ccac
+
+120 124 73 21
+dbdb dcdb acab abba
+
+82 206 139 138 35
+babb bdad ccac bcac caca
+
+244 135 168 56 164 183 247 165
+dadd cbac dbcc dbda dacc cbdc cbdd abcc
+
+220 119 108 116 211 100 103 108 251 58 70 30 186 13 86 77 189 12 184 159 238 241
+dcbd cbdb dccb dadb cabd dacb cbcb dccb ccdd bcda bbab bdba bcdc adaa bbbb adab addc dcaa dbdc cdbc bdcd aadd
+
+119 174 203 17 95 147 202 111 62 105 51 111 178 36 54 230 67 227 143 125 204 189 94 211 110
+cbdb bdcc ccad aaba cdbb cabc bcad cdcb bdda accb cada cdcb badc daca bbda bbcd caab cacd cdac addb dcad addc bdbb cabd bdcb
+
+221 224 103 177 71 235 254 20 51 124 21 233 162 156 118 149 41 19 139 128
+adbd ddbd cbcb aadc cbab cccd bddd daba cada dcdb abba accd bacc dcbc bbdb abbc acca caba ccac dddb
+
+83 230 174 136 42 234 146
+cabb bbcd bdcc dbac bcca bccd babc
+
+86 112 90 48 62 197 4 35 90 146 101 72 206 85 58 136 63 236 154 187 204
+bbbb ddcb bcbb ddca bdda abad daaa caca bcbb babc abcb dbab bdad abbb bcda dbac cdda dccd bcbc ccdc dcad
+
+230 136 248 80 76 71
+bbcd dbac dbdd ddab dcab cbab
+
+111 188 249 201 193 209 79 162 101 152 221 94 104 204 83 126 220 91 159 155 43 136 139
+cdcb dcdc acdd acad aaad aabd cdab bacc abcb dbbc adbd bdbb dbcb dcad cabb bddb dcbd ccbb cdbc ccbc ccca dbac ccac
+
+177 197 194 203 188 159 134 126 197 45 143 241 128 139 105 245 70 140 160 123 239 255 91
+aadc abad baad ccad dcdc cdbc bbac bddb abad adca cdac aadd dddb ccac accb abdd bbab dcac ddbc ccdb cdcd cddd ccbb
+
+212 36
+dabd daca
+
+136 135 110 196 104 35
+dbac cbac bdcb daad dbcb caca
+
+5 244 36 15 252 255
+abaa dadd daca cdaa dcdd cddd
+
+37 39 77 16 110 1 124 118 139 73 40 231 181 2 4 90 65 8 179 60 101 171
+abca cbca adab ddaa bdcb aaaa dcdb bbdb ccac acab dbca cbcd abdc baaa daaa bcbb aaab dbaa cadc dcda abcb cccc
+
+222 239 162 188 229 52 51 53 159 74 102 82 67 186 27 197 180 98 121 3 231 60 79
+bdbd cdcd bacc dcdc abcd dada cada abda cdbc bcab bbcb babb caab bcdc ccba abad dadc bacb acdb caaa cbcd dcda cdab
+
+1 116
+aaaa dadb
+
+139 34 19 89 229 120 113 185 158 37 205 185 76 201 185 112 135 246 68
+ccac baca caba acbb abcd dbdb aadb acdc bdbc abca adad acdc dcab acad acdc ddcb cbac bbdd daab
+
+60 6 122 143 104
+dcda bbaa bcdb cdac dbcb
+
+190 247 21 25 224 85 23 173 160
+bddc cbdd abba acba ddbd abbb cbba adcc ddbc
+
+235 135 158 221 152 155 239 124 237 185 72 207 15 208 17 248 198 176 12 239 65 157 191 248
+cccd cbac bdbc adbd dbbc ccbc cdcd dcdb adcd acdc dbab cdad cdaa ddad aaba dbdd bbad ddcc dcaa cdcd aaab adbc cddc dbdd
+
+61 220 92 50 74 155 246 163 199 16 70 100 252 239 132 90 193 249 58 107 159 44 56 151 112 121 30
+adda dcbd dcbb bada bcab ccbc bbdd cacc cbad ddaa bbab dacb dcdd cdcd daac bcbb aaad acdd bcda cccb cdbc dcca dbda cbbc ddcb acdb bdba
+
+65 146 226 198
+aaab babc bacd bbad
+
+19 211 144 31 161 5 89 169 85 170 37 229 43 200 23 43 117 64 82 91 43 44 50 123 37 100 129 59 21 216
+caba cabd ddac cdba aacc abaa acbb accc abbb bccc abca abcd ccca dbad cbba ccca abdb ddda babb ccbb ccca dcca bada ccdb abca dacb aaac ccda abba dbbd
+
+113 114 191 75 172 99 12 220
+aadb badb cddc ccab dccc cacb dcaa dcbd
+
+73 121 99 191 122 50 224 130 183 202 172 183 20 94 7
+acab acdb cacb cddc bcdb bada ddbd baac cbdc bcad dccc cbdc daba bdbb cbaa
+
+23 63 237 227 226 43 74 187 45 178 105 240 77 98 131 43 199 14 173 237 24
+cbba cdda adcd cacd bacd ccca bcab ccdc adca badc accb ddcd adab bacb caac ccca cbad bdaa adcc adcd dbba
+
+225 132 117 249 57 91 75 144 161 214 121 126 186 206 97 116 254 138 93 138 146 191 224 4 21
+aacd daac abdb acdd acda ccbb ccab ddac aacc bbbd acdb bddb bcdc bdad aacb dadb bddd bcac adbb bcac babc cddc ddbd daaa abba
+
+72 53 230 250 41 160 230 38 69 94 144 195 89 176
+dbab abda bbcd bcdd acca ddbc bbcd bbca abab bdbb ddac caad acbb ddcc
+
+46 36 93 6 6 240 203
+bdca daca adbb bbaa bbaa ddcd ccad
+
+59 84 97 73 85 120 132 80 160 181 92 58 89 134 221 227 196 209
+ccda dabb aacb acab abbb dbdb daac ddab ddbc abdc dcbb bcda acbb bbac adbd cacd daad aabd
+
+66 34 245
+baab baca abdd
+
+100 197 100 252 133 16 175 3 2 94 88 220 114 66
+dacb abad dacb dcdd abac ddaa cdcc caaa baaa bdbb dbbb dcbd badb baab
+
+8 148 96 99 104 94 240 6 169 237 43 122 188 146 22 166 216 150 33 204 198 217 38 244 197 96 18 203 52 222
+dbaa dabc ddbb cacb dbcb bdbb ddcd bbaa accc adcd ccca bcdb dcdc babc bbba bbcc dbbd bbbc aaca dcad bbad acbd bbca dadd abad ddbb baba ccad dada bdbd
+
+204 109 252 221 30 97 72
+dcad adcb dcdd adbd bdba aacb dbab
+
+41 72 161 15 31 254 224 48 228 50 90 158 96 129 80 82 242 8 173 17 21 230 99 10 23 95 142 67 85 57
+acca dbab aacc cdaa cdba bddd ddbd ddca dacd bada bcbb bdbc ddbb aaac ddab babb badd dbaa adcc aaba abba bbcd cacb bcaa cbba cdbb bdac caab abbb acda
+
+76 123 203 112 186 158 84 61 36 137 100 223
+dcab ccdb ccad ddcb bcdc bdbc dabb adda daca acac dacb cdbd
+
+218 24 120 211
+bcbd dbba dbdb cabd
+
+165 193 148 110 94 42 208 99 109 235 165 133 101 67 35 34 11 38 45 86 24 240 104 144 86 207 218 143 6 240
+abcc aaad dabc bdcb bdbb bcca ddad cacb adcb cccd abcc abac abcb caab caca baca ccaa bbca adca bbbb dbba ddcd dbcb ddac bbbb cdad bcbd cdac bbaa ddcd
+
+77 80 194 201 90 61 51 93 128 172 223 99 74 148 111 183
+adab ddab baad acad bcbb adda cada adbb dddb dccc cdbd cacb bcab dabc cdcb cbdc
+
+168 125 204 80 127 47 206 155 4 239 234 173 8 65 159 72 44 198 30 255 25 20
+dbcc addb dcad ddab cddb cdca bdad ccbc daaa cdcd bccd adcc dbaa aaab cdbc dbab dcca bbad bdba cddd acba daba
+
+220 23 46 68 136 178 193 104 89 226 179 129 254 3 247 223 183 16 222 14
+dcbd cbba bdca daab dbac badc aaad dbcb acbb bacd cadc aaac bddd caaa cbdd cdbd cbdc ddaa bdbd bdaa
+
+131 187 15 68 208 149 201 204 195 104 196 101 152
+caac ccdc cdaa daab ddad abbc acad dcad caad dbcb daad abcb dbbc
+
+64 15 143 65 33 239 65 71 199 143 246 17 27 244 6 176 174 237 46 202 186 94 185 4 31
+ddda cdaa cdac aaab aaca cdcd aaab cbab cbad cdac bbdd aaba ccba dadd bbaa ddcc bdcc adcd bdca bcad bcdc bdbb acdc daaa cdba
+
+159 144 106 195
+cdbc ddac bccb caad
+
+163 104 166 247 132 223 195 154 105 63 69 33 224 26
+cacc dbcb bbcc cbdd daac cdbd caad bcbc accb cdda abab aaca ddbd bcba
+
+183 247 94 60 249 152 175 224 193 110 178
+cbdc cbdd bdbb dcda acdd dbbc cdcc ddbd aaad bdcb badc
+
+242 70 49 42 169 72 49 118
+badd bbab aada bcca accc dbab aada bbdb
+
+85 3 227 211 55 116 30 81 100 56 123 224 47 19 238 26 101 206 173 133 128 157 59
+abbb caaa cacd cabd cbda dadb bdba aabb dacb dbda ccdb ddbd cdca caba bdcd bcba abcb bdad adcc abac dddb adbc ccda
+
+203 184 87 26 162 120 150 90 222 173 229 97 238 143 53 98 256 242 102 139 96 112 61 105 199 165 124 217 111 4
+ccad dbdc cbbb bcba bacc dbdb bbbc bcbb bdbd adcc abcd aacb bdcd cdac abda bacb dddd badd bbcb ccac ddbb ddcb adda accb cbad abcc dcdb acbd cdcb daaa
+
+177 40 214 105 35 84 153
+aadc dbca bbbd accb caca dabb acbc
+
+123 196 157 63 126 132 211 136 238 221 61 26 176 86 53
+ccdb daad adbc cdda bddb daac cabd dbac bdcd adbd adda bcba ddcc bbbb abda
+
+243 100 129 156 198 168 51 174 2 121 225 243 69 221 68 229 117 140 46 92 59 247 27 250 121
+cadd dacb aaac dcbc bbad dbcc cada bdcc baaa acdb aacd cadd abab adbd daab abcd abdb dcac bdca dcbb ccda cbdd ccba bcdd acdb
+
+176 47 229 147 23 81 231 37 44 39 136 42 102 135 122
+ddcc cdca abcd cabc cbba aabb cbcd abca dcca cbca dbac bcca bbcb cbac bcdb
+
+15 4 22 54 133 140 94 89 56 162 20 243 238 92
+cdaa daaa bbba bbda abac dcac bdbb acbb dbda bacc daba cadd bdcd dcbb
+
+88 248 50
+dbbb dbdd bada
+
+80 244 139 208 153 204 151 127 83 99
+ddab dadd ccac ddad acbc dcad cbbc cddb cabb cacb
+
+51 231 230 104 46 127 210 49 198 9 238 118 13 193 74
+cada cbcd bbcd dbcb bdca cddb babd aada bbad acaa bdcd bbdb adaa aaad bcab
+
+72 46 109 137 192 92 177 201 194 30 227 199 6 253 116 125 37 45 64 152 28 147 8 92 74 180 58 100 255
+dbab bdca adcb acac dddc dcbb aadc acad baad bdba cacd cbad bbaa addd dadb addb abca adca ddda dbbc dcba cabc dbaa dcbb bcab dadc bcda dacb cddd
+
+130 76 43 245 241 210 164 5 94 216 228 168 131 81 11 96
+baac dcab ccca abdd aadd babd dacc abaa bdbb dbbd dacd dbcc caac aabb ccaa ddbb
+
+58 170 156 160 69 56 160 111 93 133 162
+bcda bccc dcbc ddbc abab dbda ddbc cdcb adbb abac bacc
+
+61 19 23 15 232 252
+adda caba cbba cdaa dbcd dcdd
+
+253 156 56 48
+addd dcbc dbda ddca
+
+16
+ddaa
+
+108 234 91 256 129 233 90 76 69 193 5 128 59 9 5 94 153 249 63 242 156 171 68
+dccb bccd ccbb dddd aaac accd bcbb dcab abab aaad abaa dddb ccda acaa abaa bdbb acbc acdd cdda badd dcbc cccc daab
+
+127 209 138 209 56 175 190 10 18 101 58
+cddb aabd bcac aabd dbda cdcc bddc bcaa baba abcb bcda
+
+181 245 42 200 222 108 32 135 72 94
+abdc abdd bcca dbad bdbd dccb ddba cbac dbab bdbb
+
+11 62 60 183 253 92 131 107 183 66 122 251 25 48 189 135 246 88 251 63
+ccaa bdda dcda cbdc addd dcbb caac cccb cbdc baab bcdb ccdd acba ddca addc cbac bbdd dbbb ccdd cdda
+
+42 41 175 150 80 5 242
+bcca acca cdcc bbbc ddab abaa badd
+
+255 188 19 40 80 197 176 13 11 58 185 87 96 146 182 178 23 151
+cddd dcdc caba dbca ddab abad ddcc adaa ccaa bcda acdc cbbb ddbb babc bbdc badc cbba cbbc
+
+94 2 8 236 157 165 44 181 30 207 87 226 21 93 229 244 222 45 95 59 173 160 81 106 6
+bdbb baaa dbaa dccd adbc abcc dcca abdc bdba cdad cbbb bacd abba adbb abcd dadd bdbd adca cdbb ccda adcc ddbc aabb bccb bbaa
+
+169 244 197 41 88 13 177 99 69 205 229 92 101 233 230 100 256 231 240 247 237
+accc dadd abad acca dbbb adaa aadc cacb abab adad abcd dcbb abcb accd bbcd dacb dddd cbcd ddcd cbdd adcd
+
+225 161 91 244 173 103 202 103 204
+aacd aacc ccbb dadd adcc cbcb bcad cbcb dcad
+
+100
+dacb
+
+101 87
+abcb cbbb
+
+92 138 206 220 168 109 173 170 181 159 62 213 222 42 33 210
+dcbb bcac bdad dcbd dbcc adcb adcc bccc abdc cdbc bdda abbd bdbd bcca aaca babd
+
+139 198 238 32 191 202 163 167 104 46 12 140 187 194 80 29 115 118 153 154 229 5 27 122 10 195
+ccac bbad bdcd ddba cddc bcad cacc cbcc dbcb bdca dcaa dcac ccdc baad ddab adba cadb bbdb acbc bcbc abcd abaa ccba bcdb bcaa caad
+
+111 173 236 195 131 243 91 75 86 166 182 67 76 225 64 79 164 15 102 70 212 190 20 102 230 63
+cdcb adcc dccd caad caac cadd ccbb ccab bbbb bbcc bbdc caab dcab aacd ddda cdab dacc cdaa bbcb bbab dabd bddc daba bbcb bbcd cdda
+
+167 207 76 114 152 93 188 95 233 174 95 70 165 54 191 52 232 126 158 119 42
+cbcc cdad dcab badb dbbc adbb dcdc cdbb accd bdcc cdbb bbab abcc bbda cddc dada dbcd bddb bdbc cbdb bcca
+
+36 34 148 210 138 97 81 92 111 31 240 165 53 149 198 14 9 60 154
+daca baca dabc babd bcac aacb aabb dcbb cdcb cdba ddcd abcc abda abbc bbad bdaa acaa dcda bcbc
+
+148 158 150 77 108 169 164 7 222 50 69 190 256 239
+dabc bdbc bbbc adab dccb accc dacc cbaa bdbd bada abab bddc dddd cdcd
+
+230 167 239 64 38 1 114 213 4 89 159
+bbcd cbcc cdcd ddda bbca aaaa badb abbd daaa acbb cdbc
+
+52 55 33 136 142 100 199 62 127 234 189 244 78 205 125 152 32 104 1 138 74 31 171 4 189 18
+dada cbda aaca dbac bdac dacb cbad bdda cddb bccd addc dadd bdab adad addb dbbc ddba dbcb aaaa bcac bcab cdba cccc daaa addc baba
+
+210 211 181 59 148 65 39
+babd cabd abdc ccda dabc aaab cbca
+
+143 153 5 199 23 16 47 90 47 8 207 122 238 212 195
+cdac acbc abaa cbad cbba ddaa cdca bcbb cdca dbaa cdad bcdb bdcd dabd caad
+
+210 161 234 41 239 183 151 18 24 38 211 25 184 169 97 108 105 213 89 190 179 29 121 114 83
+babd aacc bccd acca cdcd cbdc cbbc baba dbba bbca cabd acba dbdc accc aacb dccb accb abbd acbb bddc cadc adba acdb badb cabb
+
+256 82
+dddd babb
+
+37 196 107 106 36 15 121 170 127 117 209 188 40 22 30
+abca daad cccb bccb daca cdaa acdb bccc cddb abdb aabd dcdc dbca bbba bdba
+
+125 175 13 16 104 15 192 139 48 5 145 151 190 166 135 14 148 172 98 139 97 36 197 236
+addb cdcc adaa ddaa dbcb cdaa dddc ccac ddca abaa aabc cbbc bddc bbcc cbac bdaa dabc dccc bacb ccac aacb daca abad dccd
+
+136 217 180 204 191 1 174 27 158 213 199 234 206 183 24 74 76 204
+dbac acbd dadc dcad cddc aaaa bdcc ccba bdbc abbd cbad bccd bdad cbdc dbba bcab dcab dcad
+
+149 49 152 86 144 241 92 196 233 30 73 238 229
+abbc aada dbbc bbbb ddac aadd dcbb daad accd bdba acab bdcd abcd
+
+208 103 109 102 162 174 97 120 251 3 209 68 67 171 80 2
+ddad cbcb adcb bbcb bacc bdcc aacb dbdb ccdd caaa aabd daab caab cccc ddab baaa
+
+193 54 250 140 140
+aaad bbda bcdd dcac dcac
+
+94 141 218 31
+bdbb adac bcbd cdba
+
+11 247 236 186 93 129 256 3 107 66 175 115 141 98 18 197 256 1 137 78 206
+ccaa cbdd dccd bcdc adbb aaac dddd caaa cccb baab cdcc cadb adac bacb baba abad dddd aaaa acac bdab bdad
+
+56 44 143 7 155 71
+dbda dcca cdac cbaa ccbc cbab
+
+87 2 28
+cbbb baaa dcba
+
+85 181 255 193 49 163 12 130 137 209 28 207 26 68 246 225 218 67 242 68 192 221 22 77 199 92 67 54 236 44
+abbb abdc cddd aaad aada cacc dcaa baac acac aabd dcba cdad bcba daab bbdd aacd bcbd caab badd daab dddc adbd bbba adab cbad dcbb caab bbda dccd dcca
+
+21
+abba
+
+69 247
+abab cbdd
+
+41 88 18 61 80 95 75 109 101 236 145 20 134 223 140 17 73 101 73 195 28 177 105 27 201 101 116 248 213
+acca dbbb baba adda ddab cdbb ccab adcb abcb dccd aabc daba bbac cdbd dcac aaba acab abcb acab caad dcba aadc accb ccba acad abcb dadb dbdd abbd
+
+27 39 231 19 220 45 228 231 94 195 25 13 128
+ccba cbca cbcd caba dcbd adca dacd cbcd bdbb caad acba adaa dddb
+
+113 246
+aadb bbdd
+
+138 242 194 223 176 166 51 182 97 83 220 103 83 157 114 191 101 64 153
+bcac badd baad cdbd ddcc bbcc cada bbdc aacb cabb dcbd cbcb cabb adbc badb cddc abcb ddda acbc
+
+83 164 48 16 180 102 142 245 108 222 99 203 169 253 112 118 11 188 164
+cabb dacc ddca ddaa dadc bbcb bdac abdd dccb bdbd cacb ccad accc addd ddcb bbdb ccaa dcdc dacc
+
+46 211 119 199 87 38 12 147 216 72 173 49 209 99 122 140 136 2 37
+bdca cabd cbdb cbad cbbb bbca dcaa cabc dbbd dbab adcc aada aabd cacb bcdb dcac dbac baaa abca
+
+193 222 252 159 108 67 238 55 95 224 114 104 27 217 211 217 74 16 215 192 82 67 182 62 243 84
+aaad bdbd dcdd cdbc dccb caab bdcd cbda cdbb ddbd badb dbcb ccba acbd cabd acbd bcab ddaa cbbd dddc babb caab bbdc bdda cadd dabb
+
+132 37 64 212 209 165 177 255 112 76 22 96 87 59 146 30 26 252
+daac abca ddda dabd aabd abcc aadc cddd ddcb dcab bbba ddbb cbbb ccda babc bdba bcba dcdd
+
+158 134 156 104 18 58 86 111 186 107 253 111 17 106 94 60 250 67 249 103 49 89 47
+bdbc bbac dcbc dbcb baba bcda bbbb cdcb bcdc cccb addd cdcb aaba bccb bdbb dcda bcdd caab acdd cbcb aada acbb cdca
+
+10
+bcaa
+
+45 175 66 154 225 29 112 252
+adca cdcc baab bcbc aacd adba ddcb dcdd
+
+207 247 158
+cdad cbdd bdbc
+
+165
+abcc
+
+168 171 156 13 217 234 59
+dbcc cccc dcbc adaa acbd bccd ccda
+
+254 94 186 222 213 242 129 68 52 6 166 240 185 159
+bddd bdbb bcdc bdbd abbd badd aaac daab dada bbaa bbcc ddcd acdc cdbc
+
+136 65 213 86 138 122 59 184 219 113 8 220 138 157 64 39 145
+dbac aaab abbd bbbb bcac bcdb ccda dbdc ccbd aadb dbaa dcbd bcac adbc ddda cbca aabc
+
+19 195 232 32 243 126 207 85 29 244 233 193 30 76 185 184 150
+caba caad dbcd ddba cadd bddb cdad abbb adba dadd accd aaad bdba dcab acdc dbdc bbbc
+
+175 122 255 152 219 119 248 18 124 65 198 208 141 34 21 52 196
+cdcc bcdb cddd dbbc ccbd cbdb dbdd baba dcdb aaab bbad ddad adac baca abba dada daad
+
+122 104 118 234 127
+bcdb dbcb bbdb bccd cddb
+
+159 144 166 46 84 90 39 113
+cdbc ddac bbcc bdca dabb bcbb cbca aadb
+
+193 168 193 36 60 39 214 104 167 252 5 201
+aaad dbcc aaad daca dcda cbca bbbd dbcb cbcc dcdd abaa acad
+
+52 111 106 76 253 238 140 93 123 48 96 228 253 55 217 91 52 197 226 31 153 18 170 9 225
+dada cdcb bccb dcab addd bdcd dcac adbb ccdb ddca ddbb dacd addd cbda acbd ccbb dada abad bacd cdba acbc baba bccc acaa aacd
+
+99 103 22 172 60 250 101 148 105 233 156 191 115 57 95 59 83 29 149 144 139 67 120
+cacb cbcb bbba dccc dcda bcdd abcb dabc accb accd dcbc cddc cadb acda cdbb ccda cabb adba abbc ddac ccac caab dbdb
+
+120 155 219 223 101 72
+dbdb ccbc ccbd cdbd abcb dbab
+
+138 241 248 233 11 184 8 104 220 183 187 143 52 192 21 127 83 226 99 23 116 170 217 2
+bcac aadd dbdd accd ccaa dbdc dbaa dbcb dcbd cbdc ccdc cdac dada dddc abba cddb cabb bacd cacb cbba dadb bccc acbd baaa
+
+129 91 44 228
+aaac ccbb dcca dacd
+
+100 113 42 130 171 205 252 199 20 84 253 157 171 80 26 216 105 138 134 84 28 138
+dacb aadb bcca baac cccc adad dcdd cbad daba dabb addd adbc cccc ddab bcba dbbd accb bcac bbac dabb dcba bcac
+
+228 33 248 125 89 111 89 20 55 5 76 140 28 199 74 208 121 192 4
+dacd aaca dbdd addb acbb cdcb acbb daba cbda abaa dcab dcac dcba cbad bcab ddad acdb dddc daaa
+
+2 114
+baaa badb
+
+149 166 142 56 19
+abbc bbcc bdac dbda caba
+
+44 237 173 125 236 87 254 209 77 45 199 139 141 129 160 220 105
+dcca adcd adcc addb dccd cbbb bddd aabd adab adca cbad ccac adac aaac ddbc dcbd accb
+
+249 127 118 92 63 250 129 7 105 1 222 100 240 38 175 62 42
+acdd cddb bbdb dcbb cdda bcdd aaac cbaa accb aaaa bdbd dacb ddcd bbca cdcc bdda bcca
+
+212 187 231 214 23
+dabd ccdc cbcd bbbd cbba
+
+113 198 194 201 85 17 14 84 152 125 159 168 251 4 182 250 149 117 197
+aadb bbad baad acad abbb aaba bdaa dabb dbbc addb cdbc dbcc ccdd daaa bbdc bcdd abbc abdb abad
+
+133 24 209 142 226 28 61 183 59 44 12 118 142 5 69 140 127 228 222 140 75 140 86 237 108 13 203
+abac dbba aabd bdac bacd dcba adda cbdc ccda dcca dcaa bbdb bdac abaa abab dcac cddb dacd bdbd dcac ccab dcac bbbb adcd dccb adaa ccad
+
+46 79 232 46 63 70 153 188 67 164 4 233 186 92 60 32 158 57 202 71 34 219 185 72 84
+bdca cdab dbcd bdca cdda bbab acbc dcdc caab dacc daaa accd bcdc dcbb dcda ddba bdbc acda bcad cbab baca ccbd acdc dbab dabb
+
+213 58 133 41 143 5 10 50 128
+abbd bcda abac acca cdac abaa bcaa bada dddb
+
+192 114 213 76
+dddc badb abbd dcab
+
+44 49 64 199 218 202
+dcca aada ddda cbad bcbd bcad
+
+182 253 205 142
+bbdc addd adad bdac
+
+246 15 233 163 154 132 165 210
+bbdd cdaa accd cacc bcbc daac abcc babd
+
+218 179 102 142 253 207 233 114 138 16 79 133 191 228 142 143
+bcbd cadc bbcb bdac addd cdad accd badb bcac ddaa cdab abac cddc dacd bdac cdac
+
+121 54 166 85 248 166 11 229 205 59 124 208 218 76 83 167 184 22 137 252 35 47 212 70 128
+acdb bbda bbcc abbb dbdd bbcc ccaa abcd adad ccda dcdb ddad bcbd dcab cabb cbcc dbdc bbba acac dcdd caca cdca dabd bbab dddb
+
+106 176 55 216 190 207 75 57 72 25 112 90 249 209 41 232 231 224 180 174 96 171 97 176 188 98 102 37 120 34
+bccb ddcc cbda dbbd bddc cdad ccab acda dbab acba ddcb bcbb acdd aabd acca dbcd cbcd ddbd dadc bdcc ddbb cccc aacb ddcc dcdc bacb bbcb abca dbdb baca
+
+192 26 221 172
+dddc bcba adbd dccc
+
+70 222 137
+bbab bdbd acac
+
+1 7 66 117 240 213
+aaaa cbaa baab abdb ddcd abbd
+
+59 106 203 51
+ccda bccb ccad cada
+
+121 221 89 119 235 171 173 133 220 13 134 200
+acdb adbd acbb cbdb cccd cccc adcc abac dcbd adaa bbac dbad
+
+47 186 225 211 41 42 85 25 142 8 251 98 56 210 251 150 165 109 25 243 127 231 70 95 155 178
+cdca bcdc aacd cabd acca bcca abbb acba bdac dbaa ccdd bacb dbda babd ccdd bbbc abcc adcb acba cadd cddb cbcd bbab cdbb ccbc badc
+
+256 122 85 64 5 163 211 46 213 212 29 133 175 249 36 75 52 26 9 255 114 99
+dddd bcdb abbb ddda abaa cacc cabd bdca abbd dabd adba abac cdcc acdd daca ccab dada bcba acaa cddd badb cacb
+
+63 159 94 232 58 173 62 21 176 128 206 74 109 117 157 235 57 236 4 245 119 207 154
+cdda cdbc bdbb dbcd bcda adcc bdda abba ddcc dddb bdad bcab adcb abdb adbc cccd acda dccd daaa abdd cbdb cdad bcbc
+
+231 13 27 122 122 213 16 163 14 12 208 141 137 228 110 43 140 241 53 184 23 67 146 94
+cbcd adaa ccba bcdb bcdb abbd ddaa cacc bdaa dcaa ddad adac acac dacd bdcb ccca dcac aadd abda dbdc cbba caab babc bdbb
+
+241 132 146 36 191 228 12 66 245 89 31 53 134 138 47 16 114 148
+aadd daac babc daca cddc dacd dcaa baab abdd acbb cdba abda bbac bcac cdca ddaa badb dabc
+
+25 59 216 48 13 101 206 163 32 205 92
+acba ccda dbbd ddca adaa abcb bdad cacc ddba adad dcbb
+
+111 135 147 111 179 93 178 221 64 184 220 131 97 8 66 83 13 178 18
+cdcb cbac cabc cdcb cadc adbb badc adbd ddda dbdc dcbd caac aacb dbaa baab cabb adaa badc baba
+
+255 118 169 112 39 252 91 184 116 135 170 244 166 65 46 101 213 169
+cddd bbdb accc ddcb cbca dcdd ccbb dbdc dadb cbac bccc dadd bbcc aaab bdca abcb abbd accc
+
+93 130
+adbb baac
+
+9 71 256 235 230 202 91 188 183 131 230 121 160 198 101
+acaa cbab dddd cccd bbcd bcad ccbb dcdc cbdc caac bbcd acdb ddbc bbad abcb
+
+127 159 207
+cddb cdbc cdad
+
+253 137 248 150 76 242 91 235 90 236 123 99 228 114 80 27 86
+addd acac dbdd bbbc dcab badd ccbb cccd bcbb dccd ccdb cacb dacd badb ddab ccba bbbb
+
+180 179 148 64 62 125 180 230 250 249 62 193 93 147 252 22 204 51 114 210 116 177 32 179 3 72 166 25 52
+dadc cadc dabc ddda bdda addb dadc bbcd bcdd acdd bdda aaad adbb cabc dcdd bbba dcad cada badb babd dadb aadc ddba cadc caaa dbab bbcc acba dada
+
+93 249 147 179 63 191 49 182 38 194 245 59 107 33 214 89 66 6 123
+adbb acdd cabc cadc cdda cddc aada bbdc bbca baad abdd ccda cccb aaca bbbd acbb baab bbaa ccdb
+
+255 53 57 169 24 75 60 197
+cddd abda acda accc dbba ccab dcda abad
+
+137 6 201 194 173 17 54 246 66 152 12 97
+acac bbaa acad baad adcc aaba bbda bbdd baab dbbc dcaa aacb
+
+129 7 169 138 256 190 226 74 64 139 76 194 115 134 101 235 108 51 113
+aaac cbaa accc bcac dddd bddc bacd bcab ddda ccac dcab baad cadb bbac abcb cccd dccb cada aadb
+
+200 43 232 170 255 60 190 35 82 148 80 157 49 6 167 137 114 167 169 201
+dbad ccca dbcd bccc cddd dcda bddc caca babb dabc ddab adbc aada bbaa cbcc acac badb cbcc accc acad
+
+133 230 224 147 173 172 128 128 54 248 146 168 256 139 51 224 228 11 151 86 105
+abac bbcd ddbd cabc adcc dccc dddb dddb bbda dbdd babc dbcc dddd ccac cada ddbd dacd ccaa cbbc bbbb accb
+
+95 189 198 221 143 145 23 104 24 21 142 180 96 157 50 53 36 77 50 192 226 187 185 240 25 6 71 254 186 228
+cdbb addc bbad adbd cdac aabc cbba dbcb dbba abba bdac dadc ddbb adbc bada abda daca adab bada dddc bacd ccdc acdc ddcd acba bbaa cbab bddd bcdc dacd
+
+127 239 59 99 160 76 88 188 5 133 79 1 228 204 34 235 85 207 187 218 58 102 201
+cddb cdcd ccda cacb ddbc dcab dbbb dcdc abaa abac cdab aaaa dacd dcad baca cccd abbb cdad ccdc bcbd bcda bbcb acad
+
+222 193 254 118 135 46 181 98 87 15 56 141 252 68 102 124 30
+bdbd aaad bddd bbdb cbac bdca abdc bacb cbbb cdaa dbda adac dcdd daab bbcb dcdb bdba
+
+226 43 54 178 138 203 136 37 77 66
+bacd ccca bbda badc bcac ccad dbac abca adab baab
+
+16 225 136 7 154 63 37 60 74 101 177 196 152 56 24 213 35 139 103 89 139 180 145 201 233 15 212 35
+ddaa aacd dbac cbaa bcbc cdda abca dcda bcab abcb aadc daad dbbc dbda dbba abbd caca ccac cbcb acbb ccac dadc aabc acad accd cdaa dabd caca
+
+77 100 106 239 251 102 84 178 57 34 155 172 53 197 209 88 137 2 9 25 122 239 73 244 50 106 83 246 180 206
+adab dacb bccb cdcd ccdd bbcb dabb badc acda baca ccbc dccc abda abad aabd dbbb acac baaa acaa acba bcdb cdcd acab dadd bada bccb cabb bbdd dadc bdad
+
+158 90 87 205 45 195 90
+bdbc bcbb cbbb adad adca caad bcbb
+
+62 150 152 30 135 250 134 81 246 133 249 29 187
+bdda bbbc dbbc bdba cbac bcdd bbac aabb bbdd abac acdd adba ccdc
+
+15 147 21 154 52 182 142 4
+cdaa cabc abba bcbc dada bbdc bdac daaa
+
+41 229 174 248 75 17 5 65 146 19 239 135 122 189 133 121 171 70 118 99 127 78 154 236
+acca abcd bdcc dbdd ccab aaba abaa aaab babc caba cdcd cbac bcdb addc abac acdb cccc bbab bbdb cacb cddb bdab bcbc dccd
+
+63 225 217 247 95 55 133 233 25 239 218 88 11 151 101 1 154 215 140 177 250 241 69 4 85 145 175 172 213
+cdda aacd acbd cbdd cdbb cbda abac accd acba cdcd bcbd dbbb ccaa cbbc abcb aaaa bcbc cbbd dcac aadc bcdd aadd abab daaa abbb aabc cdcc dccc abbd
+
+185 125 55 239 85 206 176 208 78 127 255 209 34 52 22
+acdc addb cbda cdcd abbb bdad ddcc ddad bdab cddb cddd aabd baca dada bbba
+
+181 32 173 82 137 76 32 19 27 14 21 82 31 110 206 128 180 244 217 14 82 6 4 63
+abdc ddba adcc babb acac dcab ddba caba ccba bdaa abba babb cdba bdcb bdad dddb dadc dadd acbd bdaa babb bbaa daaa cdda
+
+90 37 252 90 158
+bcbb abca dcdd bcbb bdbc
+
+74 143 241 208 226 152 40 178 66 149 85 248 124 94 239 155 26 6
+bcab cdac aadd ddad bacd dbbc dbca badc baab abbc abbb dbdd dcdb bdbb cdcd ccbc bcba bbaa
+
+190 114 27 37 45 69 173 245 116 96 160 188 37 4 37 212 88 118 156 250
+bddc badb ccba abca adca abab adcc abdd dadb ddbb ddbc dcdc abca daaa abca dabd dbbb bbdb dcbc bcdd
+
+248 233 231 146 121 124 110 47 247 37 14 138 6 144 11 149 63 129 217 93 17
+dbdd accd cbcd babc acdb dcdb bdcb cdca cbdd abca bdaa bcac bbaa ddac ccaa abbc cdda aaac acbd adbb aaba
+
+13 80 89 134 41 122 229 154 119 239 184
+adaa ddab acbb bbac acca bcdb abcd bcbc cbdb cdcd dbdc
+
+224 13 65 123 240 211 232 62 107 25 125
+ddbd adaa aaab ccdb ddcd cabd dbcd bdda cccb acba addb
+
+66 253 241
+baab addd aadd
+
+192 217 33 171 39 73 45 165 106 10 13 182 188 138 249 135
+dddc acbd aaca cccc cbca acab adca abcc bccb bcaa adaa bbdc dcdc bcac acdd cbac
+
+34 158 137 46 98 118 77 31 71 5 100 228 56 3 47 194 104 65 50 9 79 154 23 103 70 50 208 164
+baca bdbc acac bdca bacb bbdb adab cdba cbab abaa dacb dacd dbda caaa cdca baad dbcb aaab bada acaa cdab bcbc cbba cbcb bbab bada ddad dacc
+
+144 139 195 127 153 11
+ddac ccac caad cddb acbc ccaa
+
+16 197 244 192 21 217 73 69 161 78 57 238 153 256 209 179 213 158 169 41 70 58 101 137 6 55 238 133 74
+ddaa abad dadd dddc abba acbd acab abab aacc bdab acda bdcd acbc dddd aabd cadc abbd bdbc accc acca bbab bcda abcb acac bbaa cbda bdcd abac bcab
+
+178 219 50 232 20 68 249 156 196 153 213 140 98 120 20 96 111 219 154 50
+badc ccbd bada dbcd daba daab acdd dcbc daad acbc abbd dcac bacb dbdb daba ddbb cdcb ccbd bcbc bada
+
+23 185 51 58 161 96 57 50 35 92 161 69 222 130 215 92 146 14 242 13 185 93 72 65 5 95 182
+cbba acdc cada bcda aacc ddbb acda bada caca dcbb aacc abab bdbd baac cbbd dcbb babc bdaa badd adaa acdc adbb dbab aaab abaa cdbb bbdc
+
+101 108 135 118 25 227 221 203 245 214 68 127 173 55 49 143 30 256 199 131 119 254 214 228 92 196
+abcb dccb cbac bbdb acba cacd adbd ccad abdd bbbd daab cddb adcc cbda aada cdac bdba dddd cbad caac cbdb bddd bbbd dacd dcbb daad
+
+180 123 256 191 8 246 166 143 111 90 146 73 93 166 64 162 205 164 116 2 84 12
+dadc ccdb dddd cddc dbaa bbdd bbcc cdac cdcb bcbb babc acab adbb bbcc ddda bacc adad dacc dadb baaa dabb dcaa
+
+35 144 183 246 250 38 101 145 117 228 130 180 111 155 131 206 89 111 218 206 12 61 74 211 246
+caca ddac cbdc bbdd bcdd bbca abcb aabc abdb dacd baac dadc cdcb ccbc caac bdad acbb cdcb bcbd bdad dcaa adda bcab cabd bbdd
+
+120 235 141 125 77 138
+dbdb cccd adac addb adab bcac
+
+78 195 195 164 201 163 228 29 148 83 106 19 202 175 33 202 114 51 47 117 16 28
+bdab caad caad dacc acad cacc dacd adba dabc cabb bccb caba bcad cdcc aaca bcad badb cada cdca abdb ddaa dcba
+
+29 193 239 110 191 164 97 16 90 146 122 210 215 168 15 204
+adba aaad cdcd bdcb cddc dacc aacb ddaa bcbb babc bcdb babd cbbd dbcc cdaa dcad
+
+251 162 206 218 244 203 23 127 199 36 231 13 95 249 30 246 157 190 36 184 75
+ccdd bacc bdad bcbd dadd ccad cbba cddb cbad daca cbcd adaa cdbb acdd bdba bbdd adbc bddc daca dbdc ccab
+
+200 213
+dbad abbd
+
+18
+baba
+
+80 48 78 56 251 42 231 57 156 214 232 8 126 125 15 248 67 64 150 92 119 20 240 95 216 53 135
+ddab ddca bdab dbda ccdd bcca cbcd acda dcbc bbbd dbcd dbaa bddb addb cdaa dbdd caab ddda bbbc dcbb cbdb daba ddcd cdbb dbbd abda cbac
+
+166 186 8 48 186 151 86 208 7 31
+bbcc bcdc dbaa ddca bcdc cbbc bbbb ddad cbaa cdba
+
+199 241 182 24 44 230 202 57 130 92 228 93 241 63 147
+cbad aadd bbdc dbba dcca bbcd bcad acda baac dcbb dacd adbb aadd cdda cabc
+
+254 191 138 223 106 128 159 177 147 223
+bddd cddc bcac cdbd bccb dddb cdbc aadc cabc cdbd
+
+252 225 184 146 157
+dcdd aacd dbdc babc adbc
+
+34 108 93 182 56 219 235 232 231 205 212 17 45 120 135 205 119 176 4 68 54 120 216 205 79 189 116 17 83 188
+baca dccb adbb bbdc dbda ccbd cccd dbcd cbcd adad dabd aaba adca dbdb cbac adad cbdb ddcc daaa daab bbda dbdb dbbd adad cdab addc dadb aaba cabb dcdc
+
+81 184 160 56 180 157 48 130 119 179 104 105 51
+aabb dbdc ddbc dbda dadc adbc ddca baac cbdb cadc dbcb accb cada
+
+194 68 199 246 228 44 169 186 245 51 86 25 39 145 157 131 239 136 138 107 98 4 175 217 209 25
+baad daab cbad bbdd dacd dcca accc bcdc abdd cada bbbb acba cbca aabc adbc caac cdcd dbac bcac cccb bacb daaa cdcc acbd aabd acba
+
+107 221 96 29 173 232 79 84 75 89 53 64 243 243 145 73 245
+cccb adbd ddbb adba adcc dbcd cdab dabb ccab acbb abda ddda cadd cadd aabc acab abdd
+
+208 96 155 115 158 107 132 78 150 64 127 254 109 168 161 125 142 252 96 92 105 101 71 112
+ddad ddbb ccbc cadb bdbc cccb daac bdab bbbc ddda cddb bddd adcb dbcc aacc addb bdac dcdd ddbb dcbb accb abcb cbab ddcb
+
+156 182 237 130 63 47 90 102 209 92 29 3 174 139 223 49 115 22 114 152 104 20 216 119 188 241 57
+dcbc bbdc adcd baac cdda cdca bcbb bbcb aabd dcbb adba caaa bdcc ccac cdbd aada cadb bbba badb dbbc dbcb daba dbbd cbdb dcdc aadd acda
+
+251 96 61
+ccdd ddbb adda
+
+250 57 119 94 129 147 37 181 175 224 146 53 250 149 20 156 193 60
+bcdd acda cbdb bdbb aaac cabc abca abdc cdcc ddbd babc abda bcdd abbc daba dcbc aaad dcda
+
+29 200 220 84 116 158 153 68 132 209 205 50 58 63 109 147 59 120 63 205
+adba dbad dcbd dabb dadb bdbc acbc daab daac aabd adad bada bcda cdda adcb cabc ccda dbdb cdda adad
+
+79 160 65 247 25 135 87 86 147 175 247 36 75 216
+cdab ddbc aaab cbdd acba cbac cbbb bbbb cabc cdcc cbdd daca ccab dbbd
+
+227 80 133 72 208 116 195 228 147 213 32 184 153 122
+cacd ddab abac dbab ddad dadb caad dacd cabc abbd ddba dbdc acbc bcdb
+
+12 245 64 81 69 94 190 24 62 65 15 72 58 245
+dcaa abdd ddda aabb abab bdbb bddc dbba bdda aaab cdaa dbab bcda abdd
+
+208 183 251 153 4 56 144 222 40 29 136 191 203 9 135 80 136 151 139 47
+ddad cbdc ccdd acbc daaa dbda ddac bdbd dbca adba dbac cddc ccad acaa cbac ddab dbac cbbc ccac cdca
+
+130 131 147 242 77 177 50 239 154
+baac caac cabc badd adab aadc bada cdcd bcbc
+
+139 255 214 152
+ccac cddd bbbd dbbc
+
+148
+dabc
+
+115 28 7 215 95 127 186 74 242 210 187 163 143 115 243 121 109 25 15 80 196
+cadb dcba cbaa cbbd cdbb cddb bcdc bcab badd babd ccdc cacc cdac cadb cadd acdb adcb acba cdaa ddab daad
+
+5 6 97 142 118 241 246 7
+abaa bbaa aacb bdac bbdb aadd bbdd cbaa
+
+248 245 4 31 87 193 10 173 166
+dbdd abdd daaa cdba cbbb aaad bcaa adcc bbcc
+
+123 247 35 72 233 224
+ccdb cbdd caca dbab accd ddbd
+
+205 206 108 135 193 98
+adad bdad dccb cbac aaad bacb
+
+140 247 256
+dcac cbdd dddd
+
+45 215 216 202 178 65 231 115 144 75 11 130 12 64 106 74 199 22 49 122 34 96 193 191 151 105
+adca cbbd dbbd bcad badc aaab cbcd cadb ddac ccab ccaa baac dcaa ddda bccb bcab cbad bbba aada bcdb baca ddbb aaad cddc cbbc accb
+
+74 161 81 72 118 241 173 184 223 166 163 34 225 100 175 47 89 108 241 200 139 136 58 64 14 55
+bcab aacc aabb dbab bbdb aadd adcc dbdc cdbd bbcc cacc baca aacd dacb cdcc cdca acbb dccb aadd dbad ccac dbac bcda ddda bdaa cbda
+
+
